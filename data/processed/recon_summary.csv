@@ -1,0 +1,10 @@
+check_id,orders_failing,pct_of_orders,amount_at_stake_brl,description
+C1_order_without_items,775,0.779,162591.95,Payment recorded but no line items: cannot be fulfilled or invoiced
+C2_order_without_payment,1,0.001,143.46,Line items exist but no payment record
+C3_overpaid_vs_basket,291,0.293,3080.17,Collected more than items + freight
+C4_underpaid_vs_basket,141,0.142,4899.23,Collected less than items + freight
+C5_delivered_without_delivery_date,8,0.008,1378.92,Status = delivered but no customer delivery timestamp
+C6_delivered_without_approval,14,0.014,1954.6,Status = delivered but payment approval timestamp missing
+C7_carrier_before_purchase,166,0.167,23130.02,Carrier pickup timestamp earlier than purchase
+C8_customer_before_carrier,23,0.023,4536.71,Customer delivery earlier than carrier pickup
+C9_canceled_but_delivered,6,0.006,748.58,Status = canceled but a customer delivery date exists

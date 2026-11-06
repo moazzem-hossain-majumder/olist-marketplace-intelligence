@@ -1,0 +1,796 @@
+seller_id,seller_state,seller_city,quadrant,tier,risk_score,delivered,gmv,handoff_rate,bad_review_rate,cancel_rate,late_handoff,bad,canceled
+8444e55c1f13cd5c179851e5ca5ebd00,MG,congonhal,Q1 Fix now (AM-owned),Critical,96.0252,91,21464.56,0.2145,0.2843,0.0356,22,29,4
+88460e8ebdecbfecb5f9601833981930,PR,maringa,Q1 Fix now (AM-owned),Critical,95.8239,232,30769.9,0.4675,0.2771,0.0043,116,67,1
+855668e0971d4dfd7bef1b6a4133b41b,SP,itatiba,Q1 Fix now (AM-owned),Critical,89.2327,297,30703.22,0.1792,0.1967,0.0066,55,59,2
+4a3ccda38b2129705f3fb522db62ca31,SP,marilia,Q1 Fix now (AM-owned),High,83.673,62,15898.29,0.1318,0.1654,0.0132,9,11,1
+a673821011d0cec28146ea42f5ab767f,SP,sao paulo,Q1 Fix now (AM-owned),High,83.4969,122,13218.04,0.1606,0.1562,0.0145,21,19,2
+cd68562d3f44870c08922d380acae552,SP,ribeirao preto,Q1 Fix now (AM-owned),High,82.2893,122,18119.7,0.1395,0.16,0.0077,18,20,1
+8e6d7754bc7e0f22c96d255ebda59eba,SP,sao jose dos campos,Q1 Fix now (AM-owned),High,81.5472,82,15027.08,0.3216,0.231,0.0009,31,21,0
+e9bc59e7b60fc3063eb2290deda4cced,PR,maringa,Q1 Fix now (AM-owned),High,80.478,203,33058.04,0.2502,0.137,0.0049,54,28,1
+2eb70248d66e0e3ef83659f71b244378,SP,campinas,Q1 Fix now (AM-owned),High,79.5472,186,38949.72,0.3,0.4412,0.0005,60,87,0
+712e6ed8aa4aa1fa65dab41fed5737e4,SC,videira,Q1 Fix now (AM-owned),High,78.9937,77,39385.0,0.1732,0.3079,0.001,15,27,0
+6039e27294dc75811c0d8a39069f52c0,SP,osasco,Q1 Fix now (AM-owned),High,78.8931,63,13526.98,0.2868,0.1754,0.0011,22,12,0
+710e3548e02bc1d2831dfc4f1b5b14d4,PR,rolandia,Q1 Fix now (AM-owned),High,78.478,130,22328.95,0.2254,0.2789,0.0006,32,39,0
+d2374cbcbb3ca4ab1086534108cc3ab7,SP,ibitinga,Q1 Fix now (AM-owned),High,78.3899,499,20785.04,0.0979,0.1836,0.0021,49,92,1
+04308b1ee57b6625f47df1d56f00eedf,SC,bombinhas,Q1 Fix now (AM-owned),High,77.4969,92,58991.8,0.2483,0.1836,0.0008,26,18,0
+7c67e1448b00f6e969d365cea6b010ab,SP,itaquaquecetuba,Q1 Fix now (AM-owned),High,77.4843,972,187588.73,0.2921,0.2521,0.0001,288,246,0
+897060da8b9a21f655304d50fd935913,SP,ribeirao preto,Q1 Fix now (AM-owned),High,77.2579,300,22203.07,0.0681,0.2226,0.0034,20,68,1
+a416b6a846a11724393025641d4edd5e,SP,sao paulo,Q1 Fix now (AM-owned),High,77.2327,157,24930.24,0.1175,0.1388,0.028,19,22,5
+2528513dd95219a6013d4d05176e391a,SP,osasco,Q1 Fix now (AM-owned),High,76.7547,155,32897.0,0.1132,0.1486,0.0062,18,23,1
+53e4c6e0f4312d4d2107a8c9cddf45cd,SP,pedreira,Q1 Fix now (AM-owned),High,75.5723,456,29714.9,0.2055,0.1257,0.0044,96,57,2
+440dd6ab244315c632130ecfb63827b1,SP,votuporanga,Q1 Fix now (AM-owned),High,75.5472,91,13124.0,0.0973,0.1492,0.0098,9,14,1
+b2ba3715d723d245138f291a6fe42594,SP,sao paulo,Q1 Fix now (AM-owned),High,75.4214,322,49240.28,0.2304,0.1167,0.0118,77,37,4
+c31eff8334d6b3047ed34bebd4d62c36,SP,salto,Q1 Fix now (AM-owned),High,74.3522,118,12898.42,0.245,0.172,0.0007,32,21,0
+634964b17796e64304cadf1ad3050fb7,RJ,rio de janeiro,Q1 Fix now (AM-owned),High,74.239,262,39492.98,0.1021,0.1438,0.0039,27,38,1
+0b35c634521043bf4b47e21547b99ab5,PR,teixeira soares,Q1 Fix now (AM-owned),High,73.9497,46,13345.7,0.088,0.2702,0.0014,4,15,0
+4c2b230173bb36f9b240f2b8ac11786e,SP,sao paulo,Q1 Fix now (AM-owned),High,73.9371,255,14387.63,0.3047,0.1755,0.0003,82,45,0
+a888faf2d1baececa6baf9c3d603ee1f,PR,umuarama,Q1 Fix now (AM-owned),High,73.1195,53,17564.8,0.2302,0.1447,0.0013,15,8,0
+0adac9fbd9a2b63cccaac4f8756c1ca8,SP,louveira,Q1 Fix now (AM-owned),High,72.9308,105,15848.39,0.1424,0.1165,0.0242,16,12,3
+70a12e78e608ac31179aea7f8422044b,SP,jacarei,Q1 Fix now (AM-owned),High,71.673,311,29998.33,0.1686,0.1932,0.0003,54,61,0
+213b25e6f54661939f11710a6fddb871,SP,salto,Q1 Fix now (AM-owned),High,71.3836,142,14995.15,0.3383,0.1526,0.0006,53,22,0
+06a2c3af7b3aee5d69171b0e14f0ee87,MA,sao luis,Q1 Fix now (AM-owned),High,70.566,388,36030.99,0.301,0.1573,0.0002,121,61,0
+96493fab2fbb13a14d0c0e8772eef5c3,SP,sao paulo,Q1 Fix now (AM-owned),High,70.5409,63,18969.0,0.2145,0.141,0.0011,16,9,0
+821fb029fc6e495ca4f08a35d51e53a5,SP,sao paulo,Q1 Fix now (AM-owned),High,70.2516,24,17851.62,0.041,0.2224,0.0243,0,7,1
+8160255418d5aaa7dbdc9f4c64ebda44,SP,ibitinga,Q2 Protect (keep happy),Watch,69.6855,373,47492.45,0.2412,0.1583,0.0002,93,59,0
+25c5c91f63607446a97b143d2d535d31,MG,itauna,Q2 Protect (keep happy),Watch,69.3333,153,53377.92,0.1549,0.1719,0.0005,25,27,0
+ff69aa92bb6b1bf9b8b7a51c2ed9cf8b,SP,sao paulo,Q2 Protect (keep happy),Watch,68.7925,20,21940.8,0.0451,0.214,0.0024,0,6,0
+165fc07beebdcb6190fba8a06db2a449,PR,maringa,Q2 Protect (keep happy),Watch,68.7799,47,16882.31,0.0866,0.1726,0.0014,4,9,0
+44073f8b7e41514de3b7815dd0237f4f,DF,brasilia,Q2 Protect (keep happy),Watch,68.7673,142,18421.54,0.1099,0.196,0.0006,16,29,0
+1025f0e2d44d7041d6cf58b6550e0bfa,SP,sao paulo,Q2 Protect (keep happy),Watch,68.1258,893,137795.49,0.1783,0.1642,0.0001,161,146,0
+4a3ca9315b744ce9f8e9374361493884,SP,ibitinga,Q2 Protect (keep happy),Watch,68.1006,1721,194721.01,0.0883,0.1768,0.0012,152,302,2
+f5a590cf36251cf1162ea35bef76fe84,SP,sao bernardo do campo,Q2 Protect (keep happy),Watch,67.673,113,51232.78,0.1113,0.1095,0.0228,13,12,3
+f457c46070d02cadd8a68551231220dd,PR,maringa,Q2 Protect (keep happy),Watch,67.5975,186,19508.54,0.0427,0.1823,0.0148,7,35,3
+7aa4334be125fcdd2ba64b3180029f14,SP,laranjal paulista,Q2 Protect (keep happy),Watch,67.4214,214,16157.65,0.3368,0.1397,0.0004,77,30,0
+4d6d651bd7684af3fffabd5f08d12e5a,SP,jau,Q2 Protect (keep happy),Watch,67.3459,362,43186.79,0.1147,0.117,0.0029,42,42,1
+05f51e13da97139648b8125c31e5f51b,MG,belo horizonte,Q2 Protect (keep happy),Watch,67.3208,57,13100.31,0.1663,0.1372,0.0012,11,8,0
+7d13fca15225358621be4086e1eb0964,SP,ribeirao preto,Q2 Protect (keep happy),Watch,67.1447,556,113039.89,0.1472,0.1685,0.0002,83,94,0
+5dceca129747e92ff8ef7a997dc4f8ca,SP,santa barbara d´oeste,Q2 Protect (keep happy),Watch,66.8428,320,111427.62,0.0435,0.1862,0.0032,13,60,1
+9c0e69c7bf2619675bbadf47b43f655a,SP,sao jose dos campos,Q2 Protect (keep happy),Watch,66.6667,142,32507.92,0.221,0.0967,0.0067,34,13,1
+cca3071e3e9bb7d12640c9fbe2301306,SP,ibitinga,Q2 Protect (keep happy),Watch,66.1132,680,63236.12,0.0669,0.175,0.0016,45,118,1
+79ebd9a61bac3eaf882805ed4ecfa12a,PR,cascavel,Q2 Protect (keep happy),Watch,65.5849,132,15238.88,0.2816,0.1353,0.0006,41,18,0
+c3867b4666c7d76867627c2f7fb22e21,SP,guara,Q2 Protect (keep happy),Watch,65.434,221,33961.9,0.049,0.1523,0.0207,10,34,5
+4e922959ae960d389249c378d1c939f5,SP,jacarei,Q2 Protect (keep happy),Watch,65.3836,412,45408.41,0.1083,0.1789,0.0002,45,74,0
+46dc3b2cc0980fb8ec44634e21d2718e,RJ,rio de janeiro,Q2 Protect (keep happy),Watch,64.6541,502,122909.99,0.1031,0.1096,0.0059,52,54,3
+94144541854e298c2d976cb893b81343,RS,viamao,Q2 Protect (keep happy),Watch,63.7358,68,17286.28,0.2137,0.1214,0.0011,17,8,0
+9e6229250fedbe05838fef417b74e7fb,SP,mirandopolis,Q2 Protect (keep happy),Watch,63.6226,73,13602.72,0.1054,0.1458,0.001,8,11,0
+17e34d8224d27a541263c4c64b11a56b,SP,riberao preto,Q2 Protect (keep happy),Watch,63.4969,247,54580.18,0.0892,0.1116,0.0078,22,27,2
+b32be1695eb7ec5f10f72d9610a12527,RS,caxias do sul,Q2 Protect (keep happy),Watch,63.1824,44,26575.0,0.1532,0.12,0.0015,8,5,0
+3d871de0142ce09b7081e2b9d1733cb1,SP,campo limpo paulista,Q2 Protect (keep happy),Watch,62.4906,1053,93453.4,0.1294,0.1003,0.0038,137,104,4
+1c68394e931a64f90ea236c5ea590300,PR,sarandi,Q2 Protect (keep happy),Watch,61.3836,139,25000.84,0.0994,0.1545,0.0006,14,22,0
+b839e41795b7f3ad94cc2014a52f6796,SP,sao caetano do sul,Q2 Protect (keep happy),Watch,61.0566,33,42829.0,0.0529,0.1615,0.0018,1,6,0
+620c87c171fb2a6dd6e8bb4dec959fc6,RJ,petropolis,Q2 Protect (keep happy),Watch,60.9308,718,112152.9,0.0756,0.1114,0.0082,54,79,6
+d05ae8f7a5bd1d2a690a44cd079e4e27,RJ,rio de janeiro,Q2 Protect (keep happy),Watch,60.1258,77,13344.33,0.0289,0.1933,0.0112,1,16,1
+6d66611d7c44cc30ce351abc49a68421,SP,sao paulo,Q2 Protect (keep happy),Watch,59.7484,163,13516.5,0.1028,0.1467,0.0005,17,24,0
+76d5af76d0271110f9af36c92573f765,SP,sao paulo,Q2 Protect (keep happy),Watch,59.4717,126,31870.92,0.1288,0.1349,0.0007,17,17,0
+dc4a0fc896dc34b0d5bfec8438291c80,SP,ibitinga,Q2 Protect (keep happy),Watch,59.3333,221,24180.31,0.0656,0.1932,0.0004,14,44,0
+41b39e28db005d9731d9d485a83b4c38,SP,santo andre,Q2 Protect (keep happy),Watch,57.9119,183,16696.38,0.0532,0.1259,0.0102,9,23,2
+a3e9a2c700480d9bb01fba070ba80a0e,SP,ibitinga,Q2 Protect (keep happy),Watch,57.5346,125,13567.09,0.0814,0.1508,0.0007,10,19,0
+ea8482cd71df3c1969d7b9473ff13abc,SP,sao paulo,Q2 Protect (keep happy),Watch,57.4591,1122,36483.55,0.0778,0.1422,0.001,87,159,1
+1f50f920176fa81dab994f9023523100,SP,sao jose do rio preto,Q2 Protect (keep happy),Watch,57.283,1375,105125.89,0.1081,0.1321,0.0008,149,181,1
+7178f9f4dd81dcef02f62acdf8151e01,SC,videira,Q2 Protect (keep happy),Watch,57.2579,202,36795.4,0.0937,0.1428,0.0004,19,29,0
+85d9eb9ddc5d00ca9336a2219c97bb13,MG,belo horizonte,Q2 Protect (keep happy),Watch,57.0818,498,15095.49,0.1309,0.0924,0.0021,66,45,1
+59b22a78efb79a4797979612b885db36,MG,uberlandia,Q2 Protect (keep happy),Watch,56.9182,123,27117.7,0.0546,0.1871,0.0007,6,24,0
+522620dcb18a6b31cd7bdf73665113a9,PR,cascavel,Q2 Protect (keep happy),Watch,55.8742,172,56730.38,0.0563,0.1829,0.0005,9,32,0
+ce248b21cb2adc36282ede306b7660e5,SC,jaragua do sul,Q2 Protect (keep happy),Watch,55.8742,64,13706.43,0.0453,0.1257,0.0129,2,8,1
+d91fb3b7d041e83b64a00a3edfb37e4f,SP,praia grande,Q2 Protect (keep happy),Watch,55.1698,524,39926.39,0.0989,0.1381,0.0002,52,72,0
+240b9776d844d37535668549a396af32,RJ,niteroi,Q2 Protect (keep happy),Watch,54.566,35,13332.09,0.1055,0.1011,0.0017,4,3,0
+dc317f341ab0e22f39acbd9dbf9b4a1f,RS,cachoeirinha,Q2 Protect (keep happy),Watch,54.4025,55,19047.3,0.0507,0.1542,0.0013,2,9,0
+06e5eefc71ec47ae763c5c6f8db7064f,RS,porto alegre,Q2 Protect (keep happy),Watch,54.2013,90,21908.56,0.08,0.1348,0.0009,7,12,0
+0dd184061fb0eaa7ca37932c68ab91c5,SP,guarulhos,Q2 Protect (keep happy),Watch,53.1824,160,18820.62,0.0934,0.1316,0.0005,15,21,0
+f62d7bb4a613ec758a03342d46b580b2,MG,vicosa,Q2 Protect (keep happy),Watch,52.9057,32,24665.0,0.1309,0.0877,0.0018,5,2,0
+17f51e7198701186712e53a39c564617,SP,sao paulo,Q2 Protect (keep happy),Watch,52.8302,56,48098.99,0.129,0.0995,0.0013,8,5,0
+c847e075301870dd144a116762eaff9a,MG,uberaba,Q2 Protect (keep happy),Watch,52.5031,41,15248.8,0.0296,0.1427,0.0177,0,6,1
+1900267e848ceeba8fa32d80c1a5f5a8,SP,ibitinga,Q2 Protect (keep happy),Watch,52.4025,365,22971.74,0.0566,0.1673,0.0002,20,61,0
+0c8380b62e38e8a1e6adbeba7eb9688c,MG,tres coracoes,Q2 Protect (keep happy),Watch,52.1258,175,17171.88,0.1016,0.1221,0.0005,18,21,0
+48162d548f5b1b11b9d29d1e01f75a61,SP,piracicaba,Q2 Protect (keep happy),Watch,52.0881,66,20650.09,0.021,0.1577,0.0126,0,11,1
+17a053fcb14bd219540cbde0df490be0,SP,mogi guacu,Q2 Protect (keep happy),Watch,51.3585,124,40601.53,0.1584,0.1025,0.0007,21,12,0
+7e93a43ef30c4f03f38b393420bc753a,SP,barueri,Q2 Protect (keep happy),Watch,50.7673,319,166805.78,0.0791,0.0845,0.0119,25,26,4
+c826c40d7b19f62a09e2d7c5e7295ee2,SP,guarulhos,Q2 Protect (keep happy),Watch,50.7421,346,44721.84,0.0678,0.1413,0.0003,23,49,0
+218d46b86c1881d022bce9c68a7d4b15,SP,ribeirao preto,Q2 Protect (keep happy),Watch,50.3145,376,53826.9,0.0424,0.1182,0.0028,15,44,1
+2e90cb1677d35cfe24eef47d441b7c87,SP,sao paulo,Q2 Protect (keep happy),Healthy,49.7107,126,13879.91,0.0603,0.1408,0.0007,7,18,0
+7ad32824caee82087b3e2e5f33b1bf32,SP,ibitinga,Q2 Protect (keep happy),Healthy,49.6478,144,22031.18,0.0415,0.1774,0.0006,5,26,0
+fa1c13f2614d7b5c4749cbc52fecda94,SP,sumare,Q2 Protect (keep happy),Healthy,49.5597,576,191717.21,0.0802,0.0972,0.0018,46,55,1
+f9244d45189d3a3605499abddeade7d5,SP,sao paulo,Q2 Protect (keep happy),Healthy,49.3208,20,15081.44,0.0701,0.089,0.0024,1,1,0
+900ba814c251a692506d7834c1218441,SP,salto,Q2 Protect (keep happy),Healthy,48.9057,86,29006.18,0.1585,0.0919,0.0009,15,7,0
+c70c1b0d8ca86052f45a432a38b73958,SP,hortolandia,Q2 Protect (keep happy),Healthy,48.6038,259,36283.73,0.2251,0.0923,0.0003,61,23,0
+391fc6631aebcf3004804e51b40bcf1e,SP,ibitinga,Q2 Protect (keep happy),Healthy,48.4025,500,38717.19,0.0631,0.1401,0.0002,31,70,0
+6560211a19b47992c3666cc44a7e94c0,SP,sao paulo,Q2 Protect (keep happy),Healthy,48.1006,1801,120332.81,0.0065,0.1564,0.0039,10,280,7
+7142540dd4c91e2237acb7e911c4eba2,SP,penapolis,Q2 Protect (keep happy),Healthy,47.5975,316,37505.73,0.0619,0.1394,0.0003,19,44,0
+001cca7ae9ae17fb1caed9dfb1094831,ES,cariacica,Q2 Protect (keep happy),Healthy,47.4843,195,24569.93,0.0596,0.1394,0.0004,11,27,0
+e9779976487b77c6d4ac45f75ec7afe9,SP,praia grande,Q2 Protect (keep happy),Healthy,47.2956,636,42034.49,0.0653,0.1035,0.0017,41,65,1
+8581055ce74af1daba164fdbd55a40de,SP,guarulhos,Q2 Protect (keep happy),Healthy,47.1698,377,63785.62,0.0524,0.0974,0.0053,19,36,2
+7ddcbb64b5bc1ef36ca8c151f6ec77df,SP,sao paulo,Q2 Protect (keep happy),Healthy,47.1447,324,54265.67,0.014,0.1483,0.0061,3,48,2
+1f9ab4708f3056ede07124aad39a2554,SP,tupa,Q2 Protect (keep happy),Healthy,46.7673,76,13356.53,0.123,0.0901,0.001,10,6,0
+e5a38146df062edaf55c38afa99e42dc,SP,sao paulo,Q2 Protect (keep happy),Healthy,46.717,119,15231.09,0.0418,0.1562,0.0007,4,19,0
+77530e9772f57a62c906e1c21538ab82,PR,curitiba,Q2 Protect (keep happy),Healthy,46.4654,304,45490.59,0.021,0.1406,0.0034,5,43,1
+4869f7a5dfa277a7dca6462dcf3b52b2,SP,guariba,Q2 Protect (keep happy),Healthy,45.6352,1114,225000.34,0.0563,0.1248,0.001,62,138,1
+966cb4760537b1404caedd472cc610a5,SP,diadema,Q2 Protect (keep happy),Healthy,45.6352,67,46428.25,0.0552,0.1214,0.0011,3,8,0
+2bf6a2c1e71bbd29a4ad64e6d3c3629f,RJ,nova friburgo,Q2 Protect (keep happy),Healthy,45.4717,30,50628.9,0.0361,0.1312,0.0019,0,4,0
+0b90b6df587eb83608a64ea8b390cf07,PR,maringa,Q2 Protect (keep happy),Healthy,44.327,162,28841.75,0.0374,0.1633,0.0005,5,27,0
+e59aa562b9f8076dd550fcddf0e73491,PR,curitiba,Q2 Protect (keep happy),Healthy,44.1761,69,30716.3,0.0652,0.1074,0.0011,4,7,0
+d1c281d3ae149232351cd8c8cc885f0d,SP,ibitinga,Q2 Protect (keep happy),Healthy,43.9497,206,27928.77,0.0301,0.1989,0.0004,5,42,0
+7681ef142fd2c19048da7430856b5588,SP,guarulhos,Q2 Protect (keep happy),Healthy,43.4465,56,30929.81,0.0501,0.1142,0.0013,2,6,0
+1835b56ce799e6a4dc4eddc053f04066,SP,ibitinga,Q2 Protect (keep happy),Healthy,43.4214,400,33957.06,0.0281,0.222,0.0002,10,90,0
+229c3efbfb0ea2058de4ccdfbc3d784a,MG,belo horizonte,Q2 Protect (keep happy),Healthy,43.3082,118,15479.0,0.0203,0.2377,0.0007,1,30,0
+2b3e4a2a3ea8e01938cabda2a3e5cc79,SP,sao paulo,Q2 Protect (keep happy),Healthy,43.2453,52,24034.03,0.0806,0.0911,0.0013,4,4,0
+abe42c5d03695b4257b5c6cbf4e6784e,RJ,rio de janeiro,Q2 Protect (keep happy),Healthy,43.1572,49,17000.0,0.0262,0.1553,0.0014,0,8,0
+c33847515fa6305ce6feb1e818569f13,SC,brusque,Q2 Protect (keep happy),Healthy,42.5283,112,15680.96,0.0212,0.2012,0.0007,1,24,0
+16090f2ca825584b5a147ab24aa30c86,SP,atibaia,Q2 Protect (keep happy),Healthy,42.4403,397,25551.16,0.0547,0.1315,0.0002,21,52,0
+8f2ce03f928b567e3d56181ae20ae952,SP,pirituba,Q2 Protect (keep happy),Healthy,42.0126,151,21213.2,0.0573,0.121,0.0006,8,18,0
+8b321bb669392f5163d04c59e235e066,SP,sao paulo,Q2 Protect (keep happy),Healthy,41.6855,918,17053.68,0.0488,0.1355,0.0001,44,124,0
+de23c3b98a88888289c6f5cc1209054a,SP,sao paulo,Q2 Protect (keep happy),Healthy,41.5346,161,26133.97,0.0321,0.1081,0.006,4,17,1
+669ae81880e08f269a64487cfb287169,SC,rio do sul,Q2 Protect (keep happy),Healthy,41.522,160,13088.36,0.0267,0.1149,0.0061,3,18,1
+59fb871bf6f4522a87ba567b42dafecf,SP,sao paulo,Q2 Protect (keep happy),Healthy,41.4214,123,21178.6,0.1315,0.0809,0.0007,17,9,0
+a5cba26a62b8b4d0145b68b841e62e7f,PR,campo mourao,Q2 Protect (keep happy),Healthy,41.3459,53,14438.84,0.1206,0.0625,0.0013,7,2,0
+76d64c4aca3a7baf218bf93ef7fa768d,PR,curitiba,Q2 Protect (keep happy),Healthy,41.0818,63,16701.79,0.0338,0.1393,0.0011,1,9,0
+b94cc9f10ddc85e4ba73a6f7974e7101,RJ,macae,Q2 Protect (keep happy),Healthy,40.5912,39,25346.1,0.0306,0.1327,0.0016,0,5,0
+53243585a1d6dc2643021fd1853d8905,BA,lauro de freitas,Q2 Protect (keep happy),Healthy,40.4025,348,217940.44,0.0701,0.1054,0.0003,24,36,0
+ceaec5548eefc6e23e6607c5435102e7,SP,sao paulo,Q2 Protect (keep happy),Healthy,40.4025,198,51501.08,0.022,0.1142,0.0095,3,22,2
+e882b2a25a10b9c057cc49695f222c19,RJ,teresopolis,Q2 Protect (keep happy),Healthy,40.4025,57,51057.54,0.1014,0.0722,0.0012,6,3,0
+cc419e0650a3c5ba77189a1882b7556a,SP,santo andre,Q2 Protect (keep happy),Healthy,40.3522,1647,100928.0,0.0083,0.129,0.0054,12,212,9
+1a3df491d1c4f1589fc2b934ada68bf2,SC,joinville,Q2 Protect (keep happy),Healthy,40.1509,160,22472.4,0.0822,0.0976,0.0005,13,15,0
+5c243662ce92d84573bfaff24c3e3700,SP,sao paulo,Q2 Protect (keep happy),Healthy,39.673,98,32862.02,0.0577,0.1074,0.0008,5,10,0
+aba1721a889e04decc910aa13b768ef4,SP,sao paulo,Q2 Protect (keep happy),Healthy,39.4465,81,14036.3,0.0575,0.1046,0.0009,4,8,0
+7b0df942f46435babab05d49b744b2c4,SP,braganca paulista,Q2 Protect (keep happy),Healthy,39.3459,32,22600.63,0.0539,0.0894,0.0018,1,2,0
+c72de06d72748d1a0dfb2125be43ba63,BA,guanambi,Q2 Protect (keep happy),Healthy,38.6792,21,17522.0,0.044,0.0869,0.0023,0,1,0
+d94a40fd42351c259927028d163af842,MG,baependi,Q2 Protect (keep happy),Healthy,38.6792,96,13406.69,0.0759,0.0918,0.0008,7,8,0
+fa40cc5b934574b62717c68f3d678b6d,SP,sao paulo,Q2 Protect (keep happy),Healthy,38.4403,302,15877.47,0.0522,0.0734,0.0034,15,21,1
+2a84855fd20af891be03bc5924d2b453,MG,belo horizonte,Q2 Protect (keep happy),Healthy,37.8239,154,15062.1,0.0391,0.0842,0.0175,5,12,3
+7e1fb0a3ebfb01ffb3a7dae98bf3238d,SP,franca,Q2 Protect (keep happy),Healthy,37.761,155,26249.33,0.0217,0.1073,0.0118,2,16,2
+ccc4bbb5f32a6ab2b7066a4130f114e3,PR,curitiba,Q2 Protect (keep happy),Healthy,37.3836,184,73185.62,0.053,0.1111,0.0005,9,20,0
+ef0ace09169ac090589d85746e3e036f,RJ,sao goncalo,Q2 Protect (keep happy),Healthy,37.3711,127,16077.8,0.1007,0.0787,0.0006,13,9,0
+1f1bb1f0859883505541bdd6606193e5,SP,sao paulo,Q2 Protect (keep happy),Healthy,37.1321,27,16040.84,0.0384,0.0971,0.002,0,2,0
+86ccac0b835037332a596a33b6949ee1,SC,blumenau,Q2 Protect (keep happy),Healthy,36.6541,170,15407.99,0.02,0.1082,0.0057,2,18,1
+da8622b14eb17ae2831f4ac5b9dab84a,SP,piracicaba,Q2 Protect (keep happy),Healthy,35.1447,1294,159434.5,0.0455,0.1136,0.0001,58,146,0
+8cc6a0e5738e61a87b03c78b2ba9db4b,MG,andradas,Q2 Protect (keep happy),Healthy,34.7044,23,13272.7,0.042,0.0828,0.0022,0,1,0
+fe2032dab1a61af8794248c8196565c9,SP,campinas,Q2 Protect (keep happy),Healthy,34.3899,291,65745.61,0.0669,0.093,0.0003,19,26,0
+c6bda72e4dbf5c5866b13cb1810c6d03,SP,sao paulo,Q2 Protect (keep happy),Healthy,34.327,58,14161.86,0.0616,0.0841,0.0012,3,4,0
+f45122a9ab94eb4f3f8953578bc0c560,SP,piracicaba,Q2 Protect (keep happy),Healthy,33.8868,179,21505.38,0.0141,0.1586,0.0005,1,29,0
+d23019c84ffae2d5ef2270367b8605fc,PR,londrina,Q2 Protect (keep happy),Healthy,32.0252,38,29180.19,0.0484,0.0786,0.0016,1,2,0
+729f06993dac8e860d4f02d7088ca48a,SP,limeira,Q2 Protect (keep happy),Healthy,31.4591,92,19921.17,0.034,0.1132,0.0008,2,10,0
+b8bc237ba3788b23da09c0f1f3a3288c,SC,itajai,Q2 Protect (keep happy),Healthy,31.434,45,13685.71,0.0432,0.0869,0.0015,1,3,0
+834f3294fba9f932f56edc879193f925,SP,araraquara,Q2 Protect (keep happy),Healthy,31.2201,66,40047.3,0.0675,0.0647,0.0011,4,3,0
+34d1ca11b242c0fee2c834ae8d788566,MG,congonhas,Q2 Protect (keep happy),Healthy,30.7673,40,13422.24,0.0467,0.0773,0.0016,1,2,0
+9de4643a8dbde634fe55621059d92273,SC,joinville,Q2 Protect (keep happy),Healthy,30.4151,72,17640.24,0.0631,0.0713,0.001,4,4,0
+527801b552d0077ffd170872eb49683b,SP,garca,Q2 Protect (keep happy),Healthy,30.4025,90,17942.8,0.0528,0.0877,0.0009,4,7,0
+3b15288545f8928d3e65a8f949a28291,SP,ibitinga,Q2 Protect (keep happy),Healthy,30.239,99,13855.64,0.032,0.1149,0.0008,2,11,0
+a1043bafd471dff536d0c462352beb48,MG,ilicinea,Q2 Protect (keep happy),Healthy,29.5849,700,99607.34,0.0095,0.0955,0.0043,5,66,3
+66922902710d126a0e7d26b0e3805106,MG,belo horizonte,Q2 Protect (keep happy),Healthy,28.8553,149,14282.2,0.0817,0.0569,0.0006,12,7,0
+87142160b41353c4e5fca2360caf6f92,RS,porto alegre,Q2 Protect (keep happy),Healthy,28.2767,304,31169.06,0.0735,0.0668,0.0003,22,19,0
+1e8b33f18b4f7598d87f5cbee2282cc2,SP,sao paulo,Q2 Protect (keep happy),Healthy,27.3459,121,17479.36,0.0341,0.1048,0.0007,3,12,0
+004c9cd9d87a3c30c522c48c4fc07416,SP,ibitinga,Q2 Protect (keep happy),Healthy,25.6352,155,19535.64,0.0103,0.1304,0.0005,0,20,0
+4b9750c8ad28220fe6702d4ecb7c898f,SP,limeira,Q2 Protect (keep happy),Healthy,25.4843,215,15741.6,0.0587,0.0747,0.0004,12,15,0
+6061155addc1e54b4cfb51c1c2a32ad8,SP,campinas,Q2 Protect (keep happy),Healthy,25.4843,27,15614.4,0.0384,0.0545,0.002,0,0,0
+2a5b78b41cd05baeac8df54c6606b92c,MG,formiga,Q2 Protect (keep happy),Healthy,25.3208,46,15623.28,0.0425,0.0691,0.0014,1,2,0
+b33e7c55446eabf8fe1a42d037ac7d6d,SP,pradopolis,Q2 Protect (keep happy),Healthy,25.0566,147,44007.01,0.0168,0.1231,0.0006,1,18,0
+d50d79cb34e38265a8649c383dcffd48,SP,sao paulo,Q2 Protect (keep happy),Healthy,25.0566,69,13055.33,0.0315,0.0973,0.0011,1,6,0
+dbc22125167c298ef99da25668e1011f,MG,borda da mata,Q2 Protect (keep happy),Healthy,24.5786,388,32641.25,0.0167,0.0775,0.0099,5,29,4
+70eea00b476a314817cefde4aad4f89a,SP,itatiba,Q2 Protect (keep happy),Healthy,24.1761,105,31357.75,0.0464,0.0771,0.0008,4,7,0
+bfd27a966d91cfaafdb25d076585f0da,SP,serra negra,Q2 Protect (keep happy),Healthy,23.4088,114,19225.0,0.0209,0.1095,0.0007,1,12,0
+0241d4d5d36f10f80c644447315af0bd,PR,curitiba,Q2 Protect (keep happy),Healthy,22.7925,231,31115.48,0.0391,0.0902,0.0004,8,20,0
+744dac408745240a2c2528fb1b6028f3,PR,colombo,Q2 Protect (keep happy),Healthy,22.6792,78,22561.6,0.049,0.0568,0.001,3,3,0
+f8db351d8c4c4c22c6835c19a46f01b0,SP,salto,Q2 Protect (keep happy),Healthy,22.4403,649,49779.69,0.0206,0.0909,0.0016,12,58,1
+ba90964cff9b9e0e6f32b23b82465f7b,SP,guarulhos,Q2 Protect (keep happy),Healthy,22.3648,38,44212.5,0.0311,0.0786,0.0016,0,2,0
+8ae520247981aa06bc94abddf5f46d34,SC,navegantes,Q2 Protect (keep happy),Healthy,22.3145,65,16320.99,0.0212,0.1007,0.0011,0,6,0
+37be5a7c751166fbc5f8ccba4119e043,SP,sao paulo,Q2 Protect (keep happy),Healthy,22.2138,269,54735.55,0.0374,0.0929,0.0003,9,24,0
+1b4c3a6f53068f0b6944d2d005c9fc89,SC,sao ludgero,Q2 Protect (keep happy),Healthy,22.0252,110,14433.59,0.0216,0.1051,0.0007,1,11,0
+7299e27ed73d2ad986de7f7c77d919fa,MG,araguari,Q2 Protect (keep happy),Healthy,21.9874,332,34094.97,0.0193,0.0698,0.0031,5,22,1
+7a67c85e85bb2ce8582c35f2203ad736,SP,sao paulo,Q2 Protect (keep happy),Healthy,21.4088,1130,139432.82,0.0277,0.0942,0.001,30,105,1
+00ee68308b45bc5e2660cd833c3f81cc,SP,sao paulo,Q2 Protect (keep happy),Healthy,21.3585,134,20545.89,0.0182,0.1082,0.0006,1,14,0
+612170e34b97004b3ba37eae81836b4c,RS,novo hamburgo,Q2 Protect (keep happy),Healthy,21.2956,106,22972.52,0.0381,0.0838,0.0008,3,8,0
+1554a68530182680ad5c8b042c3ab563,MG,monte siao,Q2 Protect (keep happy),Healthy,21.2579,244,28953.56,0.0296,0.1014,0.0004,6,24,0
+05ff92fedb5be47920fea08e501238b9,RS,santo angelo,Q2 Protect (keep happy),Healthy,21.1321,57,21235.98,0.0364,0.0722,0.0012,1,3,0
+12b9676b00f60f3b700e83af21824c0e,RS,montenegro,Q2 Protect (keep happy),Healthy,19.3836,133,26376.0,0.0183,0.0497,0.0071,1,5,1
+d921b68bf747894be13a97ae52b0f386,MG,formiga,Q2 Protect (keep happy),Healthy,18.9182,76,15422.8,0.0396,0.0579,0.001,2,3,0
+955fee9216a65b617aa5c0531780ce60,SP,sao paulo,Q2 Protect (keep happy),Healthy,18.0629,1255,131673.11,0.0085,0.1007,0.0009,9,125,1
+080199a181c46c657dc5aa235411be3b,SP,osasco,Q2 Protect (keep happy),Healthy,16.1006,79,14504.2,0.0384,0.0363,0.001,2,1,0
+54a1852d1b8f10312c55e906355666ee,SP,santa barbara d'oeste,Q2 Protect (keep happy),Healthy,15.8491,198,17074.46,0.0312,0.0855,0.0004,5,16,0
+f7ba60f8c3f99e7ee4042fdef03b70c4,SP,sao bernardo do campo,Q2 Protect (keep happy),Healthy,15.6478,216,68187.89,0.0161,0.0998,0.0004,2,21,0
+d650b663c3b5f6fb392b6326366efa9a,SP,cotia,Q2 Protect (keep happy),Healthy,15.3208,56,18106.9,0.0237,0.0732,0.0013,0,3,0
+de722cd6dad950a92b7d4f82673f8833,PE,recife,Q2 Protect (keep happy),Healthy,15.195,335,55006.4,0.0276,0.0892,0.0003,8,29,0
+9f505651f4a6abe901a56cdc21508025,SP,sao paulo,Q2 Protect (keep happy),Healthy,12.8302,391,25879.37,0.0093,0.0945,0.0002,2,36,0
+850f4f8af5ea87287ac68de36e29107f,SP,sao paulo,Q2 Protect (keep happy),Healthy,12.3019,185,45358.27,0.0088,0.0919,0.0005,0,16,0
+eeb6de78f79159600292e314a77cbd18,SC,lages,Q2 Protect (keep happy),Healthy,10.805,82,43510.84,0.0177,0.0741,0.0009,0,5,0
+a3a38f4affed601eb87a97788c949667,SC,joinville,Q2 Protect (keep happy),Healthy,10.0126,249,26491.12,0.0179,0.0845,0.0004,3,20,0
+edb1ef5e36e0c8cd84eb3c9b003e486d,RJ,teresopolis,Q2 Protect (keep happy),Healthy,8.4906,165,79292.7,0.0152,0.0787,0.0005,1,12,0
+5cf13accae3222c70a9cac40818ae839,MG,patos de minas,Q2 Protect (keep happy),Healthy,8.3019,147,14603.45,0.0168,0.0757,0.0006,1,10,0
+289cdb325fb7e7f891c38608bf9e0962,SP,belo horizonte,Q2 Protect (keep happy),Healthy,8.2264,105,13394.94,0.0224,0.0605,0.0008,1,5,0
+c3cfdc648177fdbbbb35635a37472c53,PR,curitiba,Q2 Protect (keep happy),Healthy,6.3396,276,43336.87,0.0162,0.0731,0.0003,3,19,0
+01fdefa7697d26ad920e9e0346d4bd1b,PR,londrina,Q2 Protect (keep happy),Healthy,6.1258,128,14842.53,0.0122,0.065,0.0006,0,7,0
+c003204e1ab016dfa150abc119207b24,SP,cajamar,Q2 Protect (keep happy),Healthy,3.5094,195,24978.58,0.0177,0.0538,0.0004,2,9,0
+ad781527c93d00d89a11eecd9dcad7c1,SP,sao jose do rio preto,Q3 Automate nudges / restrict,Critical,97.8742,36,5944.63,0.3537,0.2779,0.0192,18,13,1
+835f0f7810c76831d6c7d24c7a646d4d,SP,sao paulo,Q3 Automate nudges / restrict,Critical,97.3836,41,4929.4,0.5378,0.2387,0.0177,31,12,1
+2a1348e9addc1af5aaa619b1a3679d6b,MG,belo horizonte,Q3 Automate nudges / restrict,Critical,96.8428,45,2607.8,0.3355,0.2744,0.0166,20,15,1
+850913d59ce317156b00f3705f1c3edb,SP,atibaia,Q3 Automate nudges / restrict,Critical,95.9748,29,2203.7,0.2817,0.236,0.0219,12,9,1
+dc8798cbf453b7e0f98745e396cc5616,SP,sao paulo,Q3 Automate nudges / restrict,Critical,95.4969,35,1733.0,0.251,0.2466,0.0196,12,11,1
+6973a06f484aacf400ece213dbf3d946,SP,sao jose dos campos,Q3 Automate nudges / restrict,Critical,93.8616,83,10983.24,0.2408,0.1918,0.0292,23,17,3
+054694fa03fe82cec4b7551487331d74,SP,itajobi,Q3 Automate nudges / restrict,Critical,93.2201,20,8286.1,0.3451,0.214,0.0024,12,6,0
+d71d863e5ef30d94e440c11be17dcd8f,SP,osasco,Q3 Automate nudges / restrict,Critical,92.2264,22,9217.9,0.2811,0.264,0.0023,10,8,0
+2089a6d640999f9b9141ac719b2af596,SP,sao carlos,Q3 Automate nudges / restrict,Critical,91.9497,41,7741.02,0.1935,0.2059,0.0177,10,10,1
+ede0c03645598cdfc63ca8237acbe73d,SP,ribeirao preto,Q3 Automate nudges / restrict,Critical,90.6164,43,2352.15,0.1556,0.2349,0.0171,8,12,1
+af4a0e4cfe1d9c26b6712b1be25a72e5,MG,mateus leme,Q3 Automate nudges / restrict,Critical,90.0755,21,9812.98,0.1904,0.2576,0.0023,6,8,0
+36a968b544695394e4e9d7572688598f,SP,santos,Q3 Automate nudges / restrict,Critical,90.0126,146,6838.71,0.1916,0.2022,0.0066,30,31,1
+f76a3b1349b6df1ee875d1f3fa4340f0,SP,sao paulo,Q3 Automate nudges / restrict,Critical,89.6604,24,4296.51,0.2456,0.2173,0.0022,9,7,0
+8e6cc767478edae941d9bd9eb778d77a,MG,araguari,Q3 Automate nudges / restrict,Critical,87.3711,99,5783.45,0.3261,0.1501,0.0173,37,15,2
+b2479f944e1b90cf8a5de1bbfde284d6,SP,ibitinga,Q3 Automate nudges / restrict,Critical,87.283,99,4699.35,0.116,0.2759,0.0091,12,30,1
+75d34ebb1bd0bd7dde40dd507b8169c3,BA,salvador,Q3 Automate nudges / restrict,Critical,87.2201,57,12656.33,0.1663,0.1761,0.014,11,11,1
+95f83f51203c626648c875dd41874c7f,MG,borda da mata,Q3 Automate nudges / restrict,Critical,87.1069,47,3088.58,0.1165,0.2173,0.0161,6,12,1
+3481aa57cd91f9f9d3fa1fa12d9a3bf7,SP,capivari,Q3 Automate nudges / restrict,Critical,87.044,24,1755.34,0.3137,0.1719,0.0022,12,5,0
+891071be6ba827b591264c90c2ae8a63,SP,sao paulo,Q3 Automate nudges / restrict,Critical,87.044,84,3748.35,0.1616,0.1785,0.0104,15,16,1
+c60b801f2d52c7f7f91de00870882a75,SP,guarulhos,Q3 Automate nudges / restrict,Critical,86.717,38,11418.51,0.2897,0.2338,0.0016,15,11,0
+d20b021d3efdf267a402c402a48ea64b,SP,ibitinga,Q3 Automate nudges / restrict,Critical,86.2893,74,3372.98,0.1788,0.1673,0.0115,15,13,1
+272f092de69afedd4d2969440b37f18f,SP,sao paulo,Q3 Automate nudges / restrict,Critical,85.4465,25,1856.13,0.129,0.1719,0.0238,4,5,1
+dd2bdf855a9172734fbc3744021ae9b9,MG,belo horizonte,Q3 Automate nudges / restrict,Critical,85.2579,105,10607.0,0.1424,0.1699,0.0165,16,18,2
+82e0a475a88cc9595229d8029273f045,SP,sao paulo,Q3 Automate nudges / restrict,High,84.7547,41,10827.02,0.0952,0.2223,0.0177,4,11,1
+e2aee0892199b1d92530e371abd825bf,PR,rolandia,Q3 Automate nudges / restrict,High,84.717,36,5849.66,0.1037,0.1886,0.0192,4,8,1
+54965bbe3e4f07ae045b90b0b8541f52,PR,foz do iguacu,Q3 Automate nudges / restrict,High,84.6541,73,10633.59,0.4388,0.3434,0.001,39,28,0
+e5a3438891c0bfdb9394643f95273d8e,SP,limeira,Q3 Automate nudges / restrict,High,84.4528,213,7478.56,0.1708,0.1662,0.0047,38,36,1
+5b179e9e8cc7ab6fd113a46ca584da81,SP,sao paulo,Q3 Automate nudges / restrict,High,84.3899,34,5173.5,0.2556,0.1804,0.0018,12,7,0
+bbad7e518d7af88a0897397ffdca1979,SP,sao paulo,Q3 Automate nudges / restrict,High,84.0503,66,4449.51,0.3117,0.3243,0.0011,25,25,0
+6a51fc556dab5f766ced6fbc860bc613,SP,marilia,Q3 Automate nudges / restrict,High,83.9874,24,7217.87,0.1774,0.1491,0.0243,6,4,1
+a7f13822ceb966b076af67121f87b063,SP,itaquaquecetuba,Q3 Automate nudges / restrict,High,83.8994,73,12017.69,0.4925,0.2452,0.001,44,20,0
+7f152321c60a266edc53af1925ef96c1,SC,criciuma,Q3 Automate nudges / restrict,High,83.6604,20,4147.8,0.1201,0.189,0.0024,3,5,0
+070d165398b553f3b4b851c216b8a358,SP,sao paulo,Q3 Automate nudges / restrict,High,83.6101,30,3312.08,0.1361,0.2512,0.0019,5,10,0
+cd06602b43d8800bd0afad514919d35c,SP,sao paulo,Q3 Automate nudges / restrict,High,83.4969,42,2586.51,0.0936,0.2026,0.0174,4,10,1
+b17b679f4f5ce2e03ce6968c62648246,SP,ribeirao preto,Q3 Automate nudges / restrict,High,83.2956,50,3424.18,0.1544,0.1509,0.0291,9,8,2
+db2956745b3a8e9f3785c99f34b5d25e,SP,sao sebastiao,Q3 Automate nudges / restrict,High,83.2327,45,8382.9,0.3662,0.1779,0.0015,22,9,0
+a49928bcdf77c55c6d6e05e09a9b4ca5,SP,sao paulo,Q3 Automate nudges / restrict,High,83.1069,96,8726.79,0.4725,0.3583,0.0008,53,39,0
+99eaacc9e6046db1c82b163c5f84869f,SP,franca,Q3 Automate nudges / restrict,High,82.9686,63,12642.28,0.1302,0.1634,0.013,9,11,1
+7139dc5186aa238b006e066d8fbab2e4,SP,amparo,Q3 Automate nudges / restrict,High,82.6667,22,1712.0,0.1858,0.16,0.0023,6,4,0
+972d0f9cf61b499a4812cf0bfa3ad3c4,SC,brusque,Q3 Automate nudges / restrict,High,82.6667,80,8205.62,0.288,0.3629,0.001,27,33,0
+1ca7077d890b907f89be8c954a02686a,SP,santana de parnaiba,Q3 Automate nudges / restrict,High,82.6541,108,12544.34,0.4438,0.5241,0.0007,55,64,0
+fb89df7f89fd1b8f03fa2acca1ba7364,PR,foz do iguacu,Q3 Automate nudges / restrict,High,82.6164,22,2220.0,0.2096,0.1562,0.0023,7,4,0
+d93919c944be9cff128f6c9cb899eacb,SP,mombuca,Q3 Automate nudges / restrict,High,82.5157,33,2666.7,0.3171,0.1615,0.0018,15,6,0
+6fd52c528dcb38be2eea044946b811f8,SP,sao paulo,Q3 Automate nudges / restrict,High,82.4654,67,7743.02,0.2391,0.3089,0.0011,19,24,0
+0bf0150d5b9d60d9cd2906003332f085,SP,sao paulo,Q3 Automate nudges / restrict,High,82.3019,39,5774.6,0.217,0.1821,0.0016,11,8,0
+cee48807215b30a12ca2ca10ffb5f250,SP,guaruja,Q3 Automate nudges / restrict,High,82.1132,38,7192.23,0.2035,0.1821,0.0016,10,8,0
+cac4c8e7b1ca6252d8f20b2fc1a2e4af,SP,indaiatuba,Q3 Automate nudges / restrict,High,82.0,71,4145.62,0.2616,0.2396,0.001,22,19,0
+5058e8c1e82653974541e83690655b4a,SP,itaquaquecetuba,Q3 Automate nudges / restrict,High,81.8113,59,9272.9,0.2127,0.238,0.0012,15,16,0
+23613d49c3ac2bd302259e55c06c050c,SP,porto ferreira,Q3 Automate nudges / restrict,High,81.1572,62,3871.1,0.3513,0.1798,0.0012,27,12,0
+a938325a4b357fd23a6a4d5bb126408e,RJ,nilopolis,Q3 Automate nudges / restrict,High,81.1447,23,3182.0,0.2048,0.1526,0.0022,7,4,0
+834f8533b2ecb6598dd004ff3de7203a,SP,sao paulo,Q3 Automate nudges / restrict,High,81.0566,40,4260.43,0.3467,0.1594,0.0016,19,7,0
+157c3e4b42f81ac4a44e8b1ca2fe9876,SP,sao paulo,Q3 Automate nudges / restrict,High,80.8805,22,3388.39,0.1144,0.18,0.0023,3,5,0
+8931a84a914b3fe9b1ddaa4d704947ca,SP,sao paulo,Q3 Automate nudges / restrict,High,80.4151,29,4668.3,0.2001,0.1575,0.0019,8,5,0
+1da366cade6d8276e7d8beea7af5d4bf,MG,uba,Q3 Automate nudges / restrict,High,80.2264,42,6387.59,0.384,0.1567,0.0015,22,7,0
+99002261c568a84cce14d43fcffb43ea,MT,cuiaba,Q3 Automate nudges / restrict,High,79.8868,36,4117.0,0.3358,0.1529,0.0017,17,6,0
+b1fc4f64df5a0e8b6913ab38803c57a9,RJ,sao goncalo,Q3 Automate nudges / restrict,High,79.4591,106,8239.07,0.3397,0.1981,0.0008,41,22,0
+39d54ff918774174706fb065d7f9dc07,SP,sao paulo,Q3 Automate nudges / restrict,High,79.2579,21,1584.79,0.0928,0.16,0.0261,2,4,1
+23d7c96d4a1160db1c726b248601b25a,SP,capivari,Q3 Automate nudges / restrict,High,79.195,50,10658.24,0.0972,0.1553,0.0424,5,8,3
+66e0557ecc2b4dbea057e93f215f68d8,SP,sao paulo,Q3 Automate nudges / restrict,High,79.1698,30,12141.0,0.1961,0.1312,0.0215,8,4,1
+af3ef48d0e13835e529c29ac573c63e5,SP,araraquara,Q3 Automate nudges / restrict,High,79.1572,21,1405.63,0.0928,0.1844,0.0023,2,5,0
+17306570e772e7718c92a562d33f5f1d,SP,bariri,Q3 Automate nudges / restrict,High,78.6667,27,8699.9,0.1448,0.1609,0.002,5,5,0
+f46490624488d3ff7ce78613913a7711,SP,guarulhos,Q3 Automate nudges / restrict,High,78.4906,80,5690.95,0.198,0.2156,0.001,18,19,0
+4aba391bc3b88717ce08eb11e44937b2,BA,arraial d'ajuda (porto seguro),Q3 Automate nudges / restrict,High,78.1006,26,7177.88,0.0827,0.1644,0.0233,2,5,1
+271c58a1d139c45eaf3316107c6d3a3b,SP,sao paulo,Q3 Automate nudges / restrict,High,77.9874,27,3597.63,0.2512,0.1396,0.002,10,4,0
+681fce914360217db47784ae28905a96,PR,araucaria,Q3 Automate nudges / restrict,High,77.6101,22,4172.23,0.1144,0.16,0.0023,3,4,0
+23a0ffca143a15b9b5bbdb7d552f626a,SP,sao pedro,Q3 Automate nudges / restrict,High,77.5849,22,3548.52,0.0906,0.18,0.0023,2,5,0
+431af27f296bc6519d890aa5a05fdb11,SP,ribeirao preto,Q3 Automate nudges / restrict,High,77.4843,115,12825.39,0.2356,0.2131,0.0007,30,26,0
+751bdc4d83a466c7206cd42e8f426b03,SP,ribeirao pires,Q3 Automate nudges / restrict,High,77.4591,49,6415.07,0.0696,0.1726,0.0295,3,9,2
+98dac6635aee4995d501a3972e047414,SP,sao paulo,Q3 Automate nudges / restrict,High,77.0314,84,3983.05,0.2385,0.1802,0.0009,23,16,0
+e7d5b006eb624f13074497221eb37807,SP,santo andre,Q3 Automate nudges / restrict,High,76.956,28,3478.93,0.1001,0.1784,0.002,3,6,0
+318f287a62ab7ac10b703ac37435a231,SP,sao paulo,Q3 Automate nudges / restrict,High,76.7421,51,2432.48,0.1663,0.1769,0.0013,10,10,0
+4e5725ba188db8252977a4f0227bd462,SP,ribeirao preto,Q3 Automate nudges / restrict,High,76.6918,21,1865.09,0.0684,0.2332,0.0023,1,7,0
+ca3bd7cd9f149df75950150d010fe4a2,SP,sao paulo,Q3 Automate nudges / restrict,High,76.6667,67,9227.29,0.1127,0.1444,0.0124,8,10,1
+4917cee8d902e13428c3ec4b1ca6f315,SC,blumenau,Q3 Automate nudges / restrict,High,76.5535,31,5103.9,0.153,0.1287,0.0395,6,4,2
+b14db04aa7881970e83ffa9426897925,SP,sorocaba,Q3 Automate nudges / restrict,High,76.4403,78,5808.86,0.3143,0.1638,0.001,29,13,0
+beadbee30901a7f61d031b6b686095ad,SP,guarulhos,Q3 Automate nudges / restrict,High,76.0252,63,4338.98,0.2386,0.1634,0.0011,18,11,0
+977f9f63dd360c2a32ece2f93ad6d306,SP,tabatinga,Q3 Automate nudges / restrict,High,75.9623,20,2648.44,0.1451,0.139,0.0024,4,3,0
+fffd5413c0700ac820c7069d66d98c89,SP,amparo,Q3 Automate nudges / restrict,High,75.9371,56,8633.99,0.0632,0.1942,0.0142,3,12,1
+4ebdc7e6cd6102a022dadc49156d4ea8,SP,sao paulo,Q3 Automate nudges / restrict,High,75.7987,28,884.2,0.1209,0.1575,0.002,4,5,0
+70c27847eca8195c983ed7e798c56743,RJ,rio de janeiro,Q3 Automate nudges / restrict,High,75.1698,76,12235.53,0.1959,0.1725,0.001,17,14,0
+2709af9587499e95e803a6498a5a56e9,SP,sao paulo,Q3 Automate nudges / restrict,High,75.1195,24,1171.16,0.0865,0.1759,0.0022,2,5,0
+dd7ddc04e1b6c2c614352b383efe2d36,SP,sao paulo,Q3 Automate nudges / restrict,High,75.044,117,9075.71,0.3343,0.1659,0.0007,44,20,0
+bf84056e679dbe9c69929847a40e338f,SP,sao paulo,Q3 Automate nudges / restrict,High,74.5912,35,1918.08,0.1419,0.1557,0.0017,6,6,0
+18a349e75d307f4b4cc646a691ed4216,SP,sao paulo,Q3 Automate nudges / restrict,High,74.5157,107,7294.21,0.0536,0.2346,0.0162,5,27,2
+7040e82f899a04d1b434b795a43b4617,SP,sao paulo,Q3 Automate nudges / restrict,High,74.5157,203,9104.2,0.0529,0.2469,0.0137,10,52,3
+4b5f66b7adcf57f1ecc0d3c07dd6b177,PR,vendas@creditparts.com.br,Q3 Automate nudges / restrict,High,74.3522,23,6615.58,0.1815,0.1324,0.0022,6,3,0
+7a241947449cc45dbfda4f9d0798d9d0,MG,jacutinga,Q3 Automate nudges / restrict,High,74.0252,56,7454.56,0.1948,0.1142,0.0142,13,6,1
+ef506c96320abeedfb894c34db06f478,SP,sao paulo,Q3 Automate nudges / restrict,High,73.6101,312,9538.6,0.0837,0.1562,0.0033,26,49,1
+e62b2d6ac10570a035a30bafcf01d263,SP,sao paulo,Q3 Automate nudges / restrict,High,73.5723,61,5430.48,0.2569,0.1482,0.0012,19,9,0
+a6fe7de3d16f6149ffe280349a8535a0,SP,franca,Q3 Automate nudges / restrict,High,73.5472,50,2844.9,0.1829,0.1531,0.0014,11,8,0
+f80edd2c5aaa505cc4b0a3b219abf4b8,SP,sao paulo,Q3 Automate nudges / restrict,High,73.5346,113,8988.74,0.1564,0.1255,0.0082,19,14,1
+2a6fbeaa7ab9e5d59a35841a8da71ce4,SC,jaragua do sul,Q3 Automate nudges / restrict,High,73.4214,30,1700.69,0.1161,0.1543,0.0019,4,5,0
+99a54764c341d5dc80b4a8fac4eba3fb,SP,sao paulo,Q3 Automate nudges / restrict,High,73.3082,42,3568.76,0.0936,0.1895,0.0015,4,9,0
+f4aba7c0bca51484c30ab7bdc34bcdd1,SP,sao paulo,Q3 Automate nudges / restrict,High,73.2327,107,2917.0,0.3843,0.154,0.0007,47,17,0
+55f7a3319d80f7fdf078b8f03e6725fe,SP,osasco,Q3 Automate nudges / restrict,High,73.2075,22,3013.78,0.0906,0.1562,0.0023,2,4,0
+d5ba419e26d246a0719437cf37d9b46d,SP,sao paulo,Q3 Automate nudges / restrict,High,73.1824,33,3939.49,0.1473,0.1454,0.0018,6,5,0
+83deb69e889cf80f82be1dc6d5f2d486,SC,florianopolis,Q3 Automate nudges / restrict,High,72.8302,40,5363.01,0.1801,0.1427,0.0016,9,6,0
+eed78ac17f7f795a19a709745f00cd4e,SP,botucatu,Q3 Automate nudges / restrict,High,72.6792,22,4660.1,0.0668,0.18,0.0023,1,5,0
+1a932caad4f9d804097d7f8e615baed1,SP,sao paulo,Q3 Automate nudges / restrict,High,72.5157,20,4661.0,0.0701,0.164,0.0024,1,4,0
+b56906f7fd1696e043f1bcce164c487b,SP,echapora,Q3 Automate nudges / restrict,High,72.4528,40,2188.29,0.0967,0.176,0.0016,4,8,0
+e8f6dc8e6a1dcde89d20e3995c8d90b3,SP,sao paulo,Q3 Automate nudges / restrict,High,72.3396,34,2161.83,0.1631,0.14,0.0018,7,5,0
+432c37c9dfba871172ec162e20118b8c,DF,brasilia,Q3 Automate nudges / restrict,High,71.8994,44,2679.87,0.1376,0.1181,0.0168,7,5,1
+c8467937e403e76a8ee9f0ab13f6f5ef,MG,pocos de caldas,Q3 Automate nudges / restrict,High,71.6855,30,1853.79,0.1561,0.1367,0.0019,6,4,0
+dd55f1bb788714a40e7954c3be6df745,SP,sao paulo,Q3 Automate nudges / restrict,High,71.4214,35,7041.76,0.0874,0.1738,0.0017,3,7,0
+8b9d6eec4a7eb7d0f9d579ce0b38324d,RJ,mesquita,Q3 Automate nudges / restrict,High,71.2453,47,4223.45,0.1762,0.1427,0.0014,10,7,0
+cfb1a033743668a192316f3c6d1d2671,SP,votorantim,Q3 Automate nudges / restrict,High,71.2075,133,12479.69,0.1164,0.1287,0.0071,16,17,1
+4e17c65a516f69d023a2ae78b84f28d6,SP,suzano,Q3 Automate nudges / restrict,High,71.1824,61,7639.26,0.121,0.1674,0.0012,8,11,0
+ea566164622c6b439516ab18062c42cd,SP,sao  paulo,Q3 Automate nudges / restrict,High,71.1572,50,10309.42,0.0829,0.208,0.0014,4,12,0
+ff1fb4c404b2efe68b03350a8dc24122,SP,mogi das cruzes,Q3 Automate nudges / restrict,High,71.1069,45,6772.89,0.1508,0.1471,0.0015,8,7,0
+adbc26658d6c7b4b6219f9d934598091,PR,curitiba,Q3 Automate nudges / restrict,High,71.044,88,11935.39,0.2112,0.1533,0.0009,21,14,0
+6b3bd31ad8fcda4b2635ec9f3ff2ecdf,RJ,rio de janeiro,Q3 Automate nudges / restrict,High,70.9182,33,3848.4,0.1284,0.1427,0.0018,5,5,0
+e0878efa0e0b7e5313ac0b43bc04c081,PR,curitiba,Q3 Automate nudges / restrict,High,70.8931,26,5025.4,0.061,0.2079,0.0021,1,7,0
+198c7ea11960a9844b544d9bcdca860c,MG,jacutinga,Q3 Automate nudges / restrict,High,70.7799,25,1733.75,0.0623,0.1903,0.0021,1,6,0
+fcb5ace8bcc92f75707dc0f01a27d269,SP,guarulhos,Q3 Automate nudges / restrict,High,70.6164,58,7932.7,0.1129,0.1242,0.0139,7,7,1
+903037660cf848a717166eb7a06d616e,SP,sao paulo,Q3 Automate nudges / restrict,High,70.5912,42,7855.2,0.0936,0.1703,0.0015,4,8,0
+822166ed1e47908f7cfb49946d03c726,RJ,tres rios,Q3 Automate nudges / restrict,High,70.4528,64,3431.57,0.1286,0.1634,0.0011,9,11,0
+575df70bde3f9f2b30bf8d2e9910d725,SP,sao jose do rio preto,Q3 Automate nudges / restrict,High,70.4403,26,5282.45,0.1914,0.1209,0.0021,7,3,0
+9674754b5a0cb32b638cec001178f799,SP,sao paulo,Q3 Automate nudges / restrict,High,70.3396,84,4960.63,0.0654,0.1496,0.0198,5,13,2
+f27e33c6d29b5138fa9967bcd445b6d5,SP,sao paulo,Q3 Automate nudges / restrict,High,70.0503,92,8908.3,0.1768,0.1568,0.0008,18,15,0
+73a63f72308aa20a46f4b1632018f196,PR,curitiba,Q4 Self-serve,Watch,69.9245,25,7488.85,0.1734,0.1037,0.0238,6,2,1
+3771c85bac139d2344864ede5d9341e3,SP,sorocaba,Q4 Self-serve,Watch,69.6855,26,1433.3,0.061,0.1861,0.0021,1,6,0
+ed4acab38528488b65a9a9c603ff024a,SP,sao paulo,Q4 Self-serve,Watch,69.6478,31,12648.46,0.0746,0.1679,0.0019,2,6,0
+dd533b429f380718b70ad9922c294bae,SP,barretos,Q4 Self-serve,Watch,69.4717,37,2131.18,0.172,0.1327,0.0017,8,5,0
+6a0cbc8af2e8abd1bdfb777943d174c6,SP,batatais,Q4 Self-serve,Watch,69.2453,34,3788.15,0.2001,0.1238,0.0018,9,4,0
+6c177e38df6d3f34182b1f1d427231bf,PR,curitiba,Q4 Self-serve,Watch,69.0943,53,8112.89,0.2713,0.131,0.0013,18,7,0
+aae3bfea055532c57fb453ed3ec80b30,SP,santo andre,Q4 Self-serve,Watch,68.956,47,3028.93,0.0866,0.1752,0.0014,4,9,0
+7ecd59e5e20407131822c1a68ac59c1f,DF,brasilia,Q4 Self-serve,Watch,68.8302,24,1466.71,0.3137,0.1037,0.0022,12,2,0
+e8b3a3a38279a82f0e5d006d5e5b7d2c,PR,jussara,Q4 Self-serve,Watch,68.2264,80,11832.39,0.138,0.1556,0.001,12,13,0
+0be8ff43f22e456b4e0371b2245e4d01,SP,sao paulo,Q4 Self-serve,Watch,68.2138,154,11386.09,0.0506,0.1641,0.0175,7,26,3
+2745f798279e0ed033addcc1474776d7,SP,sao paulo,Q4 Self-serve,Watch,68.1132,31,3578.63,0.1334,0.1312,0.0019,5,4,0
+3d5d0dc7073a299e31fa718ce1bc00b6,RJ,rio de janeiro,Q4 Self-serve,Watch,68.0629,21,674.8,0.0684,0.1356,0.0261,1,3,1
+40d54b51e962dbe09cabbcfd33298dee,SP,santo andre,Q4 Self-serve,Watch,67.9623,29,6761.16,0.0777,0.1543,0.0019,2,5,0
+e06f09ec0a4aca210779cf1cfc63cf19,SP,sao paulo,Q4 Self-serve,Watch,67.9623,29,5279.49,0.0777,0.1543,0.0019,2,5,0
+afe0067131b73e40875c9b6c10bd2e21,MG,lagoa da prata,Q4 Self-serve,Watch,67.6604,45,5040.5,0.1662,0.1025,0.0166,9,4,1
+09f952a5f58d2285b0372551ae8f9b01,SP,sao bernardo do campo,Q4 Self-serve,Watch,67.6478,48,12206.47,0.1001,0.1553,0.0014,5,8,0
+c0563dd588b775f2e37747ef6ad6c92c,SP,santo andre,Q4 Self-serve,Watch,67.6226,28,3727.19,0.1001,0.1367,0.002,3,4,0
+5670f4db5b62c43d542e1b2d56b0cf7c,SP,sao paulo,Q4 Self-serve,Watch,67.4591,21,6622.44,0.1416,0.1113,0.0023,4,2,0
+0afccdb8a34ee5c79f7c06faf2b4d56e,MG,uberlandia,Q4 Self-serve,Watch,67.3962,24,1185.6,0.1092,0.1293,0.0022,3,3,0
+50c9975695009e5e6473912e83a6d1da,MG,claudio,Q4 Self-serve,Watch,67.1321,50,4034.3,0.0829,0.1676,0.0014,4,9,0
+e7df4cd29ab5abab70fb0783ddb53987,SP,sao paulo,Q4 Self-serve,Watch,66.9686,22,9548.8,0.162,0.1086,0.0023,5,2,0
+63b464dbf392c7b80d12d932fa7cafed,SP,sao paulo,Q4 Self-serve,Watch,66.8553,36,6622.0,0.0858,0.1529,0.0017,3,6,0
+688756f717c462a206ad854c5027a64a,SP,guarulhos,Q4 Self-serve,Watch,66.8428,76,5661.51,0.123,0.1533,0.001,10,12,0
+2138ccb85b11a4ec1e37afbd1c8eda1f,SP,sao paulo,Q4 Self-serve,Watch,66.7925,383,12147.21,0.0516,0.1631,0.0076,19,63,3
+71039d19d4303bf9054d69e9a9236699,SP,sao paulo,Q4 Self-serve,Watch,66.6541,34,3507.3,0.0705,0.1585,0.0018,2,6,0
+13d058e4eeac2ce8217660b2f8a05812,SP,osasco,Q4 Self-serve,Watch,66.5912,22,3739.78,0.0906,0.1324,0.0023,2,3,0
+ea67327e24487bdfac5fbfa37ea124df,SP,ibitinga,Q4 Self-serve,Watch,66.566,32,6419.08,0.0539,0.2031,0.0018,1,8,0
+fa1a9dec3a9940c072684a46728bf1fc,SC,icara,Q4 Self-serve,Watch,66.5283,53,6638.19,0.285,0.1189,0.0013,19,6,0
+e883aa812c37a7413226856f4579fe91,SP,itapevi,Q4 Self-serve,Watch,66.4654,26,4097.1,0.1262,0.1209,0.0021,4,3,0
+b92e3c8f9738272ff7c59e111e108d7c,MG,uba,Q4 Self-serve,Watch,66.4528,60,8052.14,0.0976,0.157,0.0012,6,10,0
+5c853bb56f70f4d14218944bae111d7a,SP,cotia,Q4 Self-serve,Watch,66.3774,20,230.74,0.0701,0.139,0.0024,1,3,0
+d3674f271c91f824f82d24d92011f669,DF,brasilia,Q4 Self-serve,Watch,66.3774,20,1718.3,0.0701,0.139,0.0024,1,3,0
+e99e927c81e3f51739c94fcdfca9f10f,MG,uberlandia,Q4 Self-serve,Watch,66.3774,20,2572.22,0.0701,0.139,0.0024,1,3,0
+411f3b52d857390502ee4e4d5ceabc2d,SP,ribeirao pires,Q4 Self-serve,Watch,66.327,21,1837.0,0.0684,0.1426,0.0023,1,3,0
+b335c59ab742f751a85db9c411a86739,MG,araguari,Q4 Self-serve,Watch,66.0126,30,2640.01,0.1961,0.0912,0.0215,8,2,1
+d97df38225e5abadaff1e72cb72b823c,SP,sao caetano do sul,Q4 Self-serve,Watch,65.7358,27,1756.0,0.0597,0.1644,0.002,1,5,0
+93dc87703c046b603023e75222018b45,MG,belo horizonte,Q4 Self-serve,Watch,65.6352,32,7720.35,0.1886,0.1112,0.0018,8,3,0
+1d8dbc4f32378d715c717c1c1fc57bae,PR,arapongas,Q4 Self-serve,Watch,65.6226,90,11392.42,0.1437,0.1441,0.0009,14,13,0
+e067ad2c1c0b48758eb1b5228bcf7a68,SP,santos,Q4 Self-serve,Watch,65.4843,54,5042.55,0.2676,0.1157,0.0013,18,6,0
+14a08204d03bb6b6bde8029f801ae0eb,SP,sao paulo,Q4 Self-serve,Watch,65.4591,27,2140.4,0.081,0.1396,0.002,2,4,0
+cb3dd9ce66268c7a3ca7241ac70ab58c,SP,sao paulo,Q4 Self-serve,Watch,65.3962,47,2759.33,0.0717,0.1278,0.0161,3,6,1
+609e1a9a6c2539919b8205cf7c4e6ff0,SC,brusque,Q4 Self-serve,Watch,65.0818,80,6238.73,0.098,0.1588,0.001,8,13,0
+3be634553519fb6536a03e1358e9fdc7,SP,sao paulo,Q4 Self-serve,Watch,64.805,79,5203.42,0.1192,0.1471,0.001,10,12,0
+e89c4adbe7b1d0819dbb636e16461cf1,SP,indaiatuba,Q4 Self-serve,Watch,64.7296,24,3181.3,0.0637,0.1491,0.0022,1,4,0
+f12ff17ad8bbf01ec5c33b17e506649b,SP,sao paulo,Q4 Self-serve,Watch,64.4528,28,6101.0,0.0584,0.1367,0.0223,1,4,1
+92eb0f42c21942b6552362b9b114707d,SP,sao paulo,Q4 Self-serve,Watch,64.4277,329,6342.88,0.2545,0.1371,0.0003,87,45,0
+2b1a40c1daabc6ca280c4b815c101841,MG,divinopolis,Q4 Self-serve,Watch,64.3648,22,12342.6,0.043,0.1562,0.0255,0,4,1
+33576ec5412fb5905d876f12f33bfde6,PR,curitiba,Q4 Self-serve,Watch,64.3648,31,2718.0,0.1726,0.1091,0.0019,7,3,0
+56642bcb79900e777d68e91915cb4267,SP,sao paulo,Q4 Self-serve,Watch,64.327,48,3657.64,0.1001,0.1406,0.0014,5,7,0
+f61c63d13f7cd800549d5acdd390ae72,SP,pilar do sul,Q4 Self-serve,Watch,64.1509,26,3072.3,0.1045,0.1209,0.0021,3,3,0
+2156f2671501a81034d7d07f217609d0,SP,sp,Q4 Self-serve,Watch,63.9371,21,2909.5,0.0684,0.1356,0.0023,1,3,0
+f918546be4bec7104d117789ba758b2b,SP,sao paulo,Q4 Self-serve,Watch,63.9119,20,1483.0,0.0451,0.164,0.0024,0,4,0
+f3da5b2ff499efb8d4a6d371d175d7dd,SP,sao paulo,Q4 Self-serve,Watch,63.8239,75,3452.19,0.0716,0.1762,0.001,5,14,0
+276677b5d08786d5dce7c2149dcce48b,MG,belo horizonte,Q4 Self-serve,Watch,63.5849,31,3424.2,0.055,0.1679,0.0019,1,6,0
+e9d99831abad74458942f21e16f33f92,SP,sao paulo,Q4 Self-serve,Watch,63.3459,129,4883.49,0.1195,0.1524,0.0006,16,20,0
+0c7533c71df861ec58ad7ff999ed0e8d,SP,valinhos,Q4 Self-serve,Watch,63.3333,60,3006.2,0.1351,0.132,0.0012,9,8,0
+94e93ce877be27a515118dbfd2c2be41,SP,votuporanga,Q4 Self-serve,Watch,63.1824,29,5436.58,0.0777,0.1367,0.0019,2,4,0
+3b872fd4747f01cc56206f2934198618,SP,ibitinga,Q4 Self-serve,Watch,62.9811,25,2726.74,0.0623,0.1458,0.0021,1,4,0
+5f2684dab12e59f83bef73ae57724e45,SP,sao paulo,Q4 Self-serve,Watch,62.8553,67,8870.97,0.0322,0.2134,0.0124,1,16,1
+bd23da7354813347129d751591d1a6e2,SP,sao paulo,Q4 Self-serve,Watch,62.8302,85,9771.5,0.0458,0.1496,0.0103,3,13,1
+4bfc7a4a1cf8d4d2121c27422d9e50b5,SP,sao paulo,Q4 Self-serve,Watch,62.5157,24,7678.6,0.1319,0.1037,0.0022,4,2,0
+8b28d096634035667e8263d57ba3368c,SP,sao jose dos campos,Q4 Self-serve,Watch,62.4654,137,9010.3,0.0625,0.1327,0.0069,8,18,1
+827f8f69dfa529c561901c4f2e0f332f,PR,curitiba,Q4 Self-serve,Watch,62.4654,91,3408.39,0.2955,0.1152,0.0009,31,10,0
+3ab971ce71839580d2ae5b4e40fe8044,SP,sao paulo,Q4 Self-serve,Watch,62.4151,35,4917.0,0.051,0.1771,0.0017,1,7,0
+323ce52b5b81df2cd804b017b7f09aa7,SP,sao paulo,Q4 Self-serve,Watch,62.3522,29,2374.3,0.2409,0.095,0.0019,10,2,0
+244c2f1bff6afe1f2eaf9bfe9b2aed38,SP,mogi das cruzes,Q4 Self-serve,Watch,62.2013,23,2580.0,0.042,0.1759,0.0022,0,5,0
+a2e874074c877c5a05abae80ad6e488f,SP,sao jose do rio preto,Q4 Self-serve,Watch,62.1887,40,7355.0,0.1301,0.0927,0.018,6,3,1
+edf96ef93ed595084bbcbd9224bd2894,SP,sao paulo,Q4 Self-serve,Watch,62.0,25,3757.0,0.0846,0.1236,0.0021,2,3,0
+7c5b05cbdb5542049f38d90d7815b97d,SP,sao paulo,Q4 Self-serve,Watch,61.9245,21,993.97,0.0928,0.1113,0.0023,2,2,0
+df56d7b40d437f88407c5f78b63bc328,PR,cascavel,Q4 Self-serve,Watch,61.6855,22,2791.28,0.0668,0.1324,0.0023,1,3,0
+3c487ae8f8d7542beff5788e2e0aea83,DF,gama,Q4 Self-serve,Watch,61.5472,30,9385.7,0.1161,0.1112,0.0019,4,3,0
+624f4ece8da4aafb77699233d480f8ef,SP,sao paulo,Q4 Self-serve,Watch,61.522,51,9224.79,0.1381,0.1206,0.0013,8,6,0
+5343d0649eca2a983820bfe93fc4d17e,SP,santo andre,Q4 Self-serve,Watch,61.4465,66,9656.62,0.0326,0.1831,0.0126,1,13,1
+df560393f3a51e74553ab94004ba5c87,PR,loanda,Q4 Self-serve,Watch,61.434,26,3429.78,0.1697,0.0992,0.0021,6,2,0
+45d33f715e24d15a6ccf5c17b3a23e3c,SP,sorocaba,Q4 Self-serve,Watch,61.0566,52,4412.57,0.1917,0.0772,0.0283,12,3,2
+1ce3ae5a399804d1a87e706f8a813c3e,SC,jaguaruna,Q4 Self-serve,Watch,60.8679,36,2435.3,0.0501,0.1707,0.0017,1,7,0
+5a8e7d5003a1f221f9e1d6e411de7c23,SP,campinas,Q4 Self-serve,Watch,60.5786,131,10864.39,0.0649,0.1229,0.0072,8,16,1
+f7496d659ca9fdaf323c0aae84176632,SP,sao paulo,Q4 Self-serve,Watch,60.5157,25,4863.57,0.129,0.1014,0.0021,4,2,0
+0691148aee60ca47977c187804f935ae,PR,londrina,Q4 Self-serve,Watch,60.5031,47,6178.21,0.0717,0.1427,0.0014,3,7,0
+e6a69c4a27dfdd98ffe5aa757ad744bc,SP,sao paulo,Q4 Self-serve,Watch,60.478,20,495.67,0.1201,0.089,0.0267,3,1,1
+5c6d4016c2a288f074fa0848a2b653d2,SP,sao paulo,Q4 Self-serve,Watch,60.4654,30,3008.0,0.0761,0.1312,0.0019,2,4,0
+96804ea39d96eb908e7c3afdb671bb9e,MG,ibia,Q4 Self-serve,Watch,60.2642,36,3529.9,0.1037,0.1172,0.0017,4,4,0
+0cbcee27c791afa0cdcb08587a2013a8,MG,tres coracoes,Q4 Self-serve,Watch,60.0503,37,5054.15,0.0492,0.1327,0.0189,1,5,1
+5b8154610ebb21fb90eb587365e673df,SP,sao jose dos campos,Q4 Self-serve,Watch,60.0503,37,9048.05,0.0492,0.1327,0.0189,1,5,1
+9add47bf45ce8e8c7db6b9cf670b1e09,PR,fazenda rio grande,Q4 Self-serve,Watch,59.9748,41,4642.67,0.1116,0.0927,0.0177,5,3,1
+7dc8c42cc750eeafea6c85712ffee9bf,SP,sao paulo,Q4 Self-serve,Watch,59.9245,40,6360.68,0.1301,0.1094,0.0016,6,4,0
+f84fa566034f5e8e880a07ec624c56af,SP,indaiatuba,Q4 Self-serve,Watch,59.7484,89,4993.91,0.1909,0.1152,0.0009,19,10,0
+48436dade18ac8b2bce089ec2a041202,SP,volta redonda,Q4 Self-serve,Watch,59.5723,133,11813.2,0.1948,0.1213,0.0006,28,16,0
+0d33a55da925bbf1ff02af5f6059fc7f,SP,sao paulo,Q4 Self-serve,Watch,59.4591,20,495.3,0.0701,0.114,0.0024,1,2,0
+a36b125ac6d5fdbc7f50de85c9157bdc,SP,ribeirao preto,Q4 Self-serve,Watch,59.4088,23,1793.65,0.0652,0.1293,0.0022,1,3,0
+6f892e20a171e98efe17fdb971ff319b,SP,sao paulo,Q4 Self-serve,Watch,59.3208,41,6049.0,0.128,0.1094,0.0016,6,4,0
+5d3bb11474a06bdc23fb9e89f1164ee0,SP,assis,Q4 Self-serve,Watch,59.3082,31,3654.6,0.055,0.1483,0.0019,1,5,0
+3ade81dab5a172b88e1871c28ae05260,SP,sao jose do rio preto,Q4 Self-serve,Watch,59.1698,28,5406.5,0.0584,0.1396,0.002,1,4,0
+d3f39f05462b79a4562d35893a28f159,SP,mococa,Q4 Self-serve,Watch,59.0314,31,2308.2,0.0354,0.2267,0.0019,0,9,0
+701938c450705b8ae65fc923b70f35c7,SP,s jose do rio preto,Q4 Self-serve,Watch,58.9434,74,11879.29,0.1256,0.1243,0.001,10,9,0
+062ce95fa2ad4dfaedfc79260130565f,RS,lajeado,Q4 Self-serve,Watch,58.8931,52,7389.3,0.1778,0.105,0.0013,11,5,0
+3db66a856d18a9cba7c9241fc5221c50,MG,ponte nova,Q4 Self-serve,Watch,58.8931,94,9498.3,0.2176,0.1102,0.0008,23,10,0
+11bfa66332777660bd0640ee84d47006,SP,ribeirao preto,Q4 Self-serve,Watch,58.8176,76,3925.87,0.0501,0.2038,0.001,3,17,0
+2d50d6282f8aa2257819a77bfaa0efe0,SP,ibitinga,Q4 Self-serve,Watch,58.4906,40,2999.39,0.0634,0.1427,0.0016,2,6,0
+d379f449f2a3b271bc01c0782020f705,MG,divinopolis,Q4 Self-serve,Watch,58.4906,28,4493.96,0.0376,0.1784,0.002,0,6,0
+38e679b9e0064cd94c6f035707344dae,PR,londrina,Q4 Self-serve,Watch,58.4654,27,3644.15,0.0384,0.1426,0.0228,0,4,1
+7d76b645482be4a332374e8223836592,SP,sao paulo,Q4 Self-serve,Watch,58.3019,169,3721.85,0.1207,0.1367,0.0005,21,23,0
+f0b47fbbc6dee9aafe415a6e33051b3f,SP,maua,Q4 Self-serve,Watch,58.239,66,3839.98,0.1605,0.1112,0.0011,12,7,0
+916748bc99315c2d202898ae58b1617e,SP,sorocaba,Q4 Self-serve,Watch,58.1761,25,369.4,0.1068,0.1014,0.0021,3,2,0
+b83cedfb587e7911540e3f576d6917ce,SP,sao paulo,Q4 Self-serve,Watch,57.9371,24,2241.85,0.0637,0.1264,0.0022,1,3,0
+81f89e42267213cb94da7ddc301651da,SP,presidente prudente,Q4 Self-serve,Watch,57.5723,45,3886.0,0.0432,0.1779,0.0015,1,9,0
+b4a476fbd28de64b1e347abf9089366a,SP,itapevi,Q4 Self-serve,Watch,57.5723,29,4469.04,0.0777,0.1159,0.0019,2,3,0
+55d3daac7c404d59e51c2aa2f4dc5a23,SP,sao paulo,Q4 Self-serve,Watch,57.4465,21,4480.6,0.0684,0.1113,0.0023,1,2,0
+ad420dd0c4f92f8af951ac24b86d0cf5,MG,fronteira,Q4 Self-serve,Watch,57.283,42,4705.29,0.0614,0.1427,0.0015,2,6,0
+4992e76a42cb3aad7a7047e0d3d7e729,SP,sao paulo,Q4 Self-serve,Watch,57.2327,52,2052.7,0.0528,0.1606,0.0013,2,9,0
+2a7dc43cecabf23403078e2188437d1d,SP,sao paulo,Q4 Self-serve,Watch,57.0189,50,4763.02,0.1258,0.108,0.0014,7,5,0
+42ef3192a9ff87a22d1867b74b3ee205,SP,santo andre,Q4 Self-serve,Watch,56.9686,23,1354.09,0.1815,0.0828,0.0022,6,1,0
+994f04b3718c2bab35c2adfa8afecd2a,SP,jaguariuna,Q4 Self-serve,Watch,56.8302,46,3239.9,0.194,0.054,0.0308,11,1,2
+002100f778ceb8431b7a1020ff7ab48f,SP,franca,Q4 Self-serve,Watch,56.7296,48,1158.8,0.0854,0.1259,0.0014,4,6,0
+056b4ada5bbc2c50cc7842547dda6b51,RJ,queimados,Q4 Self-serve,Watch,56.2893,64,12203.4,0.0929,0.1272,0.0011,6,8,0
+8b2492b7ff4468839593fafeed55bad9,RJ,sao goncalo,Q4 Self-serve,Watch,56.2893,29,3660.08,0.0572,0.1339,0.0019,1,4,0
+8fdca8e349553f99bc738833a62c8802,SP,sao paulo,Q4 Self-serve,Watch,56.2013,22,989.34,0.0668,0.1113,0.0023,1,2,0
+2a261b5b644fa05f4f2700eb93544f2c,SP,porto ferreira,Q4 Self-serve,Watch,56.1384,49,5418.0,0.0407,0.1821,0.0014,1,10,0
+3d8fa2f5b647373c8620330c4e077a9f,SP,sao paulo,Q4 Self-serve,Watch,55.9748,42,3570.64,0.0775,0.124,0.0015,3,5,0
+34056b8b55c1775a22af2331670a799c,SP,penapolis,Q4 Self-serve,Watch,55.9497,77,6398.7,0.0702,0.1398,0.001,5,11,0
+26d8a1c7c75d513045798992ead43aa2,PR,apucarana,Q4 Self-serve,Watch,55.9371,34,5937.13,0.1075,0.103,0.0018,4,3,0
+8a32e327fe2c1b3511609d81aaf9f042,SP,sao paulo,Q4 Self-serve,Watch,55.7736,124,5931.15,0.0334,0.1508,0.0144,3,19,2
+d66c305afaec317ebee552073a674429,MG,ribeirao das neves,Q4 Self-serve,Watch,55.7233,38,4180.39,0.1173,0.0786,0.0186,5,2,1
+1127b7f2594683f2510f1c2c834a486b,SP,campinas,Q4 Self-serve,Watch,55.673,109,6600.5,0.0372,0.1361,0.0308,3,15,4
+066a6914e1ebf3ea95a216c73a986b91,PR,foz do iguacu,Q4 Self-serve,Watch,55.6478,65,8995.29,0.1154,0.1125,0.0011,8,7,0
+0db783cfcd3b73998abc6e10e59a102f,SP,santos,Q4 Self-serve,Watch,55.6352,130,8939.3,0.1054,0.1313,0.0006,14,17,0
+58f1a6197ed863543e0136bdedb3fce2,MG,conselheiro lafaiete,Q4 Self-serve,Watch,55.5723,42,6634.9,0.0614,0.1381,0.0015,2,6,0
+7202e2ba20579a9bd1acb29e61fe71f6,SP,franca,Q4 Self-serve,Watch,55.3836,51,12085.7,0.0536,0.1509,0.0013,2,8,0
+8f119a0aee85c0c8fc534629734e94fd,SP,barueri,Q4 Self-serve,Watch,55.2956,73,3496.39,0.1162,0.0813,0.0117,9,5,1
+daeb5653dd96c1b11860f72209795012,MG,belo horizonte,Q4 Self-serve,Watch,55.2453,38,1864.1,0.0656,0.1304,0.0016,2,5,0
+37515688008a7a40ac93e3b2e4ab203f,SP,dracena,Q4 Self-serve,Watch,55.2075,221,5820.9,0.3353,0.1028,0.0004,79,22,0
+7901646fdd36a55f564ffaf2dbccaaf7,RJ,rio de janeiro,Q4 Self-serve,Watch,55.0692,22,11857.08,0.0668,0.1086,0.0023,1,2,0
+7b1222c3624aa89b9558b50a2594188c,SP,sao jose do rio preto,Q4 Self-serve,Watch,55.0692,22,10103.52,0.0668,0.1086,0.0023,1,2,0
+b39d7fe263ef469605dbb32608aee0af,SP,ibitinga,Q4 Self-serve,Watch,55.044,43,5255.99,0.0604,0.1381,0.0015,2,6,0
+bacb1f0ed56ad24198f5810d2b3fe9a5,SP,jacarei,Q4 Self-serve,Watch,55.044,38,6143.04,0.0656,0.0976,0.0507,2,3,3
+28f10b1c5e5abb9d4857745bede6147c,SP,sao paulo,Q4 Self-serve,Watch,54.9434,28,835.0,0.0376,0.1575,0.002,0,5,0
+4c18691b6037662be2df78a765d98ab5,SP,sao paulo,Q4 Self-serve,Watch,54.9434,62,3159.02,0.0464,0.1654,0.0012,2,11,0
+66dc1b1632bd6a3e508510c5b3492107,SP,jau,Q4 Self-serve,Watch,54.9057,36,3642.18,0.0322,0.2065,0.0017,0,9,0
+f84a00e60c73a49e7e851c9bdca3a5bb,RJ,rio de janeiro,Q4 Self-serve,Watch,54.8302,87,5793.24,0.0449,0.1828,0.0009,3,17,0
+6fc26fe110feebd80a433e1f012a84f9,SP,fernandopolis,Q4 Self-serve,Watch,54.8176,35,4150.87,0.051,0.14,0.0017,1,5,0
+5debea795b07621e1f90532e18f96145,PR,apucarana,Q4 Self-serve,Watch,54.5535,25,1883.78,0.0846,0.1014,0.0021,2,2,0
+8d79c8a04e42d722a75097ce5cbcf2ef,CE,caucaia,Q4 Self-serve,Watch,54.5535,25,2600.32,0.0846,0.1014,0.0021,2,2,0
+3fd1e727ba94cfe122d165e176ce7967,SP,araraquara,Q4 Self-serve,Watch,54.4025,34,2642.5,0.0334,0.14,0.0199,0,5,1
+45ba18c210d42734ec52c0c1c574e9ee,SP,sao roque,Q4 Self-serve,Watch,54.4025,34,5104.22,0.0334,0.14,0.0199,0,5,1
+5656537e588803a555b8eb41f07a944b,DF,brasilia,Q4 Self-serve,Watch,53.9497,171,7961.71,0.0513,0.181,0.0005,8,32,0
+4559697a8f7e637227c2eeaed843baff,SP,presidente prudente,Q4 Self-serve,Watch,53.9245,39,3486.3,0.0645,0.1282,0.0016,2,5,0
+a17f621c590ea0fab3d5d883e1630ec6,SP,sorocaba,Q4 Self-serve,Watch,53.9119,60,2649.4,0.0351,0.1354,0.0256,1,8,2
+e96498ed8daaa3e9c23f7a62da76591c,SP,sao paulo,Q4 Self-serve,Watch,53.7736,34,9619.09,0.0334,0.1771,0.0018,0,7,0
+3c4e0452bff7a2a788179488d3d77032,PR,colombo,Q4 Self-serve,Watch,53.7107,32,3746.4,0.0347,0.1679,0.0018,0,6,0
+bba74270a87732727b5a3b4fd9ac1c39,MG,betim,Q4 Self-serve,Watch,53.6855,35,5964.6,0.051,0.1375,0.0017,1,5,0
+6288c69c4ce638e59925e59193f98b16,SP,santo andre,Q4 Self-serve,Watch,53.6226,20,4196.8,0.0951,0.089,0.0024,2,1,0
+808d4348b916efa08e766ebad39f61eb,SP,sao paulo,Q4 Self-serve,Watch,53.6226,20,712.95,0.0951,0.089,0.0024,2,1,0
+cfe94489ddd337d1e29e12f2a7205d10,SP,sao paulo,Q4 Self-serve,Watch,53.6226,20,2376.0,0.0951,0.089,0.0024,2,1,0
+3bb548e3cb7f70f28e3f11ee9dce0e59,PR,maringa,Q4 Self-serve,Watch,53.434,42,6285.62,0.0936,0.1058,0.0015,4,4,0
+9d5a9018aee56acb367ba9c3f05d1d6a,GO,aparecida de goiania,Q4 Self-serve,Watch,53.2075,65,10056.65,0.1506,0.1007,0.0011,11,6,0
+093805f8f2aeb63881444571e1f48f30,SP,osasco,Q4 Self-serve,Watch,53.1824,22,1215.79,0.043,0.1324,0.0023,0,3,0
+7f2617c58d5d06806987308b45654351,SP,sao paulo,Q4 Self-serve,Watch,53.1824,22,3656.8,0.043,0.1324,0.0023,0,3,0
+cce6ab8d1682639fe45ab70234f1665f,SP,curitiba,Q4 Self-serve,Watch,53.1321,61,2442.7,0.121,0.0687,0.0134,8,3,1
+5cbbd5a299cab112b7bf23862255e43e,PR,pinhais,Q4 Self-serve,Watch,53.0943,34,2635.84,0.089,0.103,0.0018,3,3,0
+17ca9b9e9b9ef8fdb529001b49ebb50f,MG,betim,Q4 Self-serve,Watch,53.0692,114,9667.78,0.0881,0.1311,0.0007,10,15,0
+20cb7c2fde3e5bf10f0bbe7394e1c6a9,PR,andira-pr,Q4 Self-serve,Watch,53.0692,31,845.0,0.055,0.1287,0.0019,1,4,0
+2e13c71026e1a39ba5cc1b86dcb679aa,SP,sao paulo,Q4 Self-serve,Watch,52.9937,23,3717.0,0.0652,0.1061,0.0022,1,2,0
+6338ea67c41078a46ad99cc009654956,RS,farroupilha,Q4 Self-serve,Watch,52.6918,36,2276.1,0.1751,0.0845,0.0017,8,2,0
+5d0363b33554b373851fc1622e4d5f3c,SP,atibaia,Q4 Self-serve,Watch,52.6918,93,6656.49,0.0956,0.12,0.0008,9,11,0
+77a515caa36327151d1cc6c32a9f00e1,SP,diadema,Q4 Self-serve,Watch,52.6541,26,2217.39,0.0827,0.0992,0.0021,2,2,0
+c9aafcd0621b2207c10e32c649cada4d,SP,sao paulo,Q4 Self-serve,Watch,52.239,39,2686.16,0.1153,0.0943,0.0016,5,3,0
+602044f2c16190c2c6e45eb35c2e21cb,SP,ibitinga,Q4 Self-serve,Watch,52.2264,47,3559.07,0.0269,0.2964,0.0014,0,17,0
+dfc5fb7259bb2b599ca565e6e9448f0f,SP,sao bernardo do campo,Q4 Self-serve,Watch,52.0881,31,5939.74,0.1138,0.0894,0.0019,4,2,0
+c731d18cea9bf687ffee82a241c25b11,SC,concordia,Q4 Self-serve,Watch,52.0881,23,3794.52,0.042,0.1324,0.0022,0,3,0
+ef990a83bbea832f36ebe81376335aa8,SC,joinville,Q4 Self-serve,Watch,52.0252,40,4154.79,0.0301,0.1927,0.0016,0,9,0
+48efc9d94a9834137efd9ea76b065a38,PR,curitiba,Q4 Self-serve,Watch,51.6981,33,345.6,0.5624,0.0483,0.0018,28,0,0
+4e06067cc08b3f41d837768d392c3ee3,MG,betim,Q4 Self-serve,Watch,51.6352,30,934.72,0.0361,0.1512,0.0019,0,5,0
+33ac3e28642ab8bda860a2f693000e78,SP,cotia,Q4 Self-serve,Watch,51.5472,33,3556.13,0.0718,0.1049,0.0018,2,3,0
+5b67882648febfb6e1225e6ad7164f6b,PR,umuarama,Q4 Self-serve,Watch,51.3711,27,7028.38,0.0384,0.1396,0.002,0,4,0
+e63e8bfa530fb16910dd6956e592bb81,SP,guarulhos,Q4 Self-serve,Watch,51.1698,38,1214.99,0.0656,0.1131,0.0016,2,4,0
+78c99c6dff4eeae5be99bf635ed21e3f,SP,marilia,Q4 Self-serve,Watch,50.9811,30,1940.98,0.0961,0.0912,0.0019,3,2,0
+e38db885400cd35c71dfd162f2c1dbcf,DF,brasilia,Q4 Self-serve,Watch,50.9811,30,2066.8,0.0961,0.0912,0.0019,3,2,0
+4bf2f4ee540798a61f9636d12cd9cc80,SP,assis,Q4 Self-serve,Watch,50.8553,29,4995.56,0.0572,0.1135,0.0019,1,3,0
+3c03b12bab54d8b37d79d914bfdb1aa0,RJ,sao joao de meriti,Q4 Self-serve,Watch,50.8302,37,4460.34,0.0317,0.1707,0.0017,0,7,0
+e5e33c0d8e7e002f398f5dc4cbbb338f,SP,bauru,Q4 Self-serve,Watch,50.7547,26,6494.9,0.0827,0.0774,0.0233,2,1,1
+f214d28e8d8e3ef068748498ccc2f813,SP,sao paulo,Q4 Self-serve,Watch,50.6541,51,2127.44,0.0818,0.108,0.0013,4,5,0
+06579cb253ecd5a3a12a9e6eb6bf8f47,SP,sao paulo - sp,Q4 Self-serve,Watch,50.3522,60,4518.5,0.0601,0.132,0.0012,3,8,0
+11305281b50fff20ae8bb473f8e11876,MG,uba,Q4 Self-serve,Watch,50.1761,34,6458.71,0.0705,0.103,0.0018,2,3,0
+1c129092bf23f28a5930387c980c0dfc,SP,sao paulo,Q4 Self-serve,Watch,50.0881,189,9111.13,0.2383,0.094,0.0005,48,17,0
+1da3aeb70d7989d1e6d9b0e887f97c23,SP,sao paulo,Q4 Self-serve,Healthy,49.9371,257,8666.28,0.039,0.1216,0.0039,9,31,1
+0ed6ce5d87fd9c69eaacaeb778d67235,SP,americana,Q4 Self-serve,Healthy,49.8868,42,2026.52,0.1904,0.0748,0.0015,10,2,0
+9baf5cb77970f539089d09a38bcec5c3,SP,indaiatuba,Q4 Self-serve,Healthy,49.6226,31,5989.68,0.0942,0.0894,0.0019,3,2,0
+cea729054f157f5870bdd321a958d994,SP,sao paulo,Q4 Self-serve,Healthy,49.6101,24,2556.89,0.041,0.1264,0.0022,0,3,0
+bd697db56ff8e7c9cd1abeb7f72029b2,SP,sao paulo,Q4 Self-serve,Healthy,49.3208,20,2769.8,0.0701,0.089,0.0024,1,1,0
+3078096983cf766a32a06257648502d1,SP,scao jose do rio pardo,Q4 Self-serve,Healthy,49.1572,56,7910.84,0.0369,0.1127,0.0269,1,6,2
+412a4720f3e9431b4afa1476a1acddbe,SP,campinas,Q4 Self-serve,Healthy,48.9686,21,2058.1,0.044,0.1113,0.0023,0,2,0
+52f9db5cfb423382a2fa5c9e39303202,SP,echapora,Q4 Self-serve,Healthy,48.9686,21,1218.78,0.044,0.1113,0.0023,0,2,0
+b499c00f28f4b7069ff6550af8c1348a,SP,limeira,Q4 Self-serve,Healthy,48.9434,144,10124.2,0.1756,0.0949,0.0006,27,13,0
+fd386aa7bed2af3c7035c65506c9b4a3,SP,sao paulo,Q4 Self-serve,Healthy,48.9308,67,2284.06,0.0552,0.1329,0.0011,3,9,0
+f7ccf836d21b2fb1de37564105216cc1,SP,ibitinga,Q4 Self-serve,Healthy,48.9057,67,2690.34,0.0322,0.1831,0.0011,1,13,0
+15aac934c58d886785ac1b17953ea898,ES,muqui,Q4 Self-serve,Healthy,48.8428,25,4353.9,0.0623,0.1014,0.0021,1,2,0
+3361277dc30b7cccdb0c286b24219756,PR,maringa,Q4 Self-serve,Healthy,48.8428,29,3905.05,0.0777,0.0931,0.0019,2,2,0
+b2ac621f0d0322434d04a12b078b9369,PR,curitiba,Q4 Self-serve,Healthy,48.8428,29,9445.6,0.0777,0.0931,0.0019,2,2,0
+e48b04bf1aa1ef711caebeb7aede6180,PR,curitiba,Q4 Self-serve,Healthy,48.8428,25,3187.1,0.0623,0.1014,0.0021,1,2,0
+4e7c18b98d84e05cbae3ff0ff03846c2,SP,jaboticabal,Q4 Self-serve,Healthy,48.805,80,8770.9,0.038,0.1673,0.001,2,14,0
+75fbb52eda0cbc24f479d3b2fbfa8d3e,GO,goiania,Q4 Self-serve,Healthy,48.4528,37,1079.29,0.0492,0.0976,0.0189,1,3,1
+013900e863eace745d3ec7614cab5b1a,PR,curitiba,Q4 Self-serve,Healthy,48.4151,23,1619.7,0.0885,0.0828,0.0022,2,1,0
+ce7d1888639e6fb06b2749cbfdac1ff7,MG,baependi,Q4 Self-serve,Healthy,48.2893,78,12222.68,0.0388,0.1588,0.001,2,13,0
+238fac594e170b59c6d228f5a4f4f1d9,SP,dois corregos,Q4 Self-serve,Healthy,48.2642,29,3146.0,0.0368,0.1367,0.0019,0,4,0
+5160d23075764e18e07c1f4a87fad743,SP,sao bernardo do campo,Q4 Self-serve,Healthy,47.9497,30,2124.0,0.0761,0.0712,0.0215,2,1,1
+3340ef1913fb70d28420f6ceb685c339,PR,maringa,Q4 Self-serve,Healthy,47.8491,32,6769.95,0.0924,0.0877,0.0018,3,2,0
+fad44952713764836814be105382aee5,RJ,rio de janeiro,Q4 Self-serve,Healthy,47.8491,32,5207.0,0.0924,0.0877,0.0018,3,2,0
+b561927807645834b59ef0d16ba55a24,SP,sao paulo,Q4 Self-serve,Healthy,47.4088,83,4483.69,0.0952,0.1025,0.0009,8,8,0
+02ecc2a19303f05e59ce133fd923fff7,SP,santo andre,Q4 Self-serve,Healthy,47.1572,21,5361.19,0.0684,0.0869,0.0023,1,1,0
+9596c870880d900012f2e8e6e30d06d7,MG,varginha,Q4 Self-serve,Healthy,47.1572,21,7625.35,0.0684,0.0869,0.0023,1,1,0
+b347677812ea483b0f528eaf8cbc09b7,PR,curitiba,Q4 Self-serve,Healthy,47.1572,21,7368.89,0.0684,0.0869,0.0023,1,1,0
+3c7c4a49ec3c6550809089c6a2ca9370,SP,sao paulo,Q4 Self-serve,Healthy,47.1195,136,3965.86,0.0308,0.2536,0.0006,3,37,0
+6ec1a01e866584bb679eb9b098345919,SP,santos,Q4 Self-serve,Healthy,46.6792,30,4014.81,0.0361,0.1339,0.0019,0,4,0
+8090490573c6c0aa343a7231ebcb8c86,SP,sao paulo - sp,Q4 Self-serve,Healthy,46.6667,26,3871.12,0.0392,0.1209,0.0021,0,3,0
+b8555308bfdb4ca1ed54325a58da9a97,SP,sao bernardo do campo,Q4 Self-serve,Healthy,46.6667,26,3047.2,0.0392,0.1209,0.0021,0,3,0
+730937bf88cb151eb2eb849f642fc213,SP,rio claro,Q4 Self-serve,Healthy,46.566,22,2868.1,0.043,0.1086,0.0023,0,2,0
+e9511df20ccd82658a30c37b7fb343af,SP,bauru,Q4 Self-serve,Healthy,46.566,22,2096.6,0.043,0.1086,0.0023,0,2,0
+048c2757535328e0d7dac690ad3c0aae,SP,franca,Q4 Self-serve,Healthy,46.478,50,9065.08,0.0401,0.1386,0.0014,1,7,0
+ed4311e67debd72b8610a5347a743087,SP,guarulhos,Q4 Self-serve,Healthy,46.478,25,3636.0,0.0846,0.0809,0.0021,2,1,0
+3df020b72d3d44b3af9d110fa3940b65,SP,jales,Q4 Self-serve,Healthy,46.4654,54,4965.0,0.0379,0.1427,0.0013,1,8,0
+f262cbc1c910c83959f849465454ddd3,SP,sao paulo,Q4 Self-serve,Healthy,46.1887,189,10219.76,0.023,0.1373,0.0052,3,26,1
+1dc2de47ee26a0a5b12dc14fd6dc0dea,SP,ibitinga,Q4 Self-serve,Healthy,46.1761,25,1695.29,0.0846,0.0791,0.0021,2,1,0
+2e1c9f22be269ef4643f826c9e650a52,SP,sao paulo,Q4 Self-serve,Healthy,45.8742,160,12169.65,0.0378,0.1093,0.0061,5,17,1
+25e6ffe976bd75618accfe16cefcbd0d,SP,sao paulo,Q4 Self-serve,Healthy,45.7107,105,11584.11,0.0624,0.0845,0.0087,6,8,1
+01fd077212124329bac32490e8ef80d9,SP,ribeirao preto / sao paulo,Q4 Self-serve,Healthy,45.4717,30,1205.0,0.0361,0.1312,0.0019,0,4,0
+14d7985702e72162bbf13b6beb74ab2b,SP,santo andre,Q4 Self-serve,Healthy,45.3459,37,3971.8,0.0668,0.0976,0.0017,2,3,0
+b18dc380845b24038cfc48006478f099,SP,diadema,Q4 Self-serve,Healthy,45.3082,43,7753.96,0.0604,0.1058,0.0015,2,4,0
+138dbe45fc62f1e244378131a6801526,SP,sao paulo,Q4 Self-serve,Healthy,44.9937,46,1083.76,0.0425,0.1297,0.0014,1,6,0
+9b00ed88b7fdb95d6ff76e27c1b52d16,SP,sao paulo,Q4 Self-serve,Healthy,44.956,46,1600.88,0.0577,0.0843,0.0163,2,3,1
+f41ce2e25237f9092cd8e6e7516c7a2f,SP,guarulhos,Q4 Self-serve,Healthy,44.805,26,1961.9,0.0827,0.0774,0.0021,2,1,0
+f00e21b1e91a79653163b7fd8f293ff1,SP,andradas,Q4 Self-serve,Healthy,44.717,31,3900.09,0.0354,0.1312,0.0019,0,4,0
+bf00385a5f7fc1ef39a13c2e9ee50a5f,SP,sao paulo,Q4 Self-serve,Healthy,44.5535,28,855.4,0.0584,0.095,0.002,1,2,0
+6426d21aca402a131fc0a5d0960a3c90,SP,ribeirao preto,Q4 Self-serve,Healthy,44.5157,23,1209.64,0.042,0.1061,0.0022,0,2,0
+8d956fec2e4337affcb520f56fd8cbfd,SP,sao bernardo do campo,Q4 Self-serve,Healthy,44.478,209,10962.11,0.0472,0.0942,0.0048,9,19,1
+1d4587203296c8f4ad134dc286fa6db0,SP,sao paulo,Q4 Self-serve,Healthy,44.2893,39,2223.0,0.0475,0.1112,0.0016,1,4,0
+1336efc61c316ddf92c899eb817f7cae,SP,assis,Q4 Self-serve,Healthy,44.1761,69,4863.38,0.0652,0.1074,0.0011,4,7,0
+72c5da29406b4234927b81855e7b64f6,SP,guarulhos,Q4 Self-serve,Healthy,43.9874,31,11846.69,0.0354,0.1287,0.0019,0,4,0
+c8417879a15366a17c30af34c798c332,SP,sao paulo,Q4 Self-serve,Healthy,43.7987,24,1696.7,0.041,0.1061,0.0022,0,2,0
+42bde9fef835393bb8a8849cb6b7f245,DF,brasilia,Q4 Self-serve,Healthy,43.761,34,7574.0,0.0519,0.0845,0.0199,1,2,1
+4c498c7345e89aebad651544829beca0,SP,carapicuiba,Q4 Self-serve,Healthy,43.761,45,4526.37,0.0893,0.0856,0.0015,4,3,0
+d624126b9206f595fb3fbb6ba03b28a8,PR,curitiba,Q4 Self-serve,Healthy,43.5597,23,7198.8,0.0885,0.061,0.0022,2,0,0
+b74d1c09cb380e1d03a6f859c6f4224b,RJ,rio de janeiro,Q4 Self-serve,Healthy,43.5472,28,2154.53,0.0376,0.1159,0.002,0,3,0
+382229d1e840115ffe3dbf5ff460e417,RJ,rio de janeiro,Q4 Self-serve,Healthy,43.5346,44,3997.16,0.0438,0.1181,0.0015,1,5,0
+bf100ecb7997df312b285358fb32f92c,PR,sao jose dos pinhais,Q4 Self-serve,Healthy,43.2579,20,1991.9,0.0701,0.0674,0.0024,1,0,0
+128639473a139ac0f3e5f5ade55873a5,PR,maringa,Q4 Self-serve,Healthy,43.0692,525,11865.45,0.0877,0.1049,0.0002,46,54,0
+3f3486b61f45078d4f31ee5e43d8c5bb,SP,sao paulo,Q4 Self-serve,Healthy,42.956,39,3769.73,0.0645,0.0943,0.0016,2,3,0
+870d0118f7a9d85960f29ad89d5d989a,MG,pocos de caldas,Q4 Self-serve,Healthy,42.8679,43,3052.31,0.0763,0.0883,0.0015,3,3,0
+c8b3445d737de6befde0c88ede534a5e,SP,sao paulo,Q4 Self-serve,Healthy,42.7799,29,3084.05,0.0572,0.0931,0.0019,1,2,0
+232a6014e7b10cba61c6c2b2ea6bb4b0,SP,cafelandia,Q4 Self-serve,Healthy,42.7421,32,3819.97,0.0347,0.1262,0.0018,0,4,0
+0176f73cc1195f367f7b32db1e5b3aa8,SP,ibitinga,Q4 Self-serve,Healthy,42.7296,36,4642.2,0.0322,0.135,0.0017,0,5,0
+2199e7fe213c16213bf5d6a7eadc9a5d,SP,registro,Q4 Self-serve,Healthy,42.6667,24,3767.29,0.041,0.1037,0.0022,0,2,0
+95ec4458365c4d11f452ccf538377619,SP,limeira,Q4 Self-serve,Healthy,42.4906,24,1693.36,0.0865,0.0596,0.0022,2,0,0
+aac29b1b99776be73c3049939652091d,MG,uberlandia,Q4 Self-serve,Healthy,42.4025,93,6658.48,0.0691,0.1032,0.0008,6,9,0
+cc63f0dd2acba93ffed4fe9f8e0321fa,SP,sao jose do rio preto,Q4 Self-serve,Healthy,42.3774,55,7096.71,0.0641,0.1008,0.0013,3,5,0
+0ef83d7d83ed97cd2a0049ac8be5f88a,PR,curitiba,Q4 Self-serve,Healthy,42.2516,46,4086.12,0.0273,0.1471,0.0014,0,7,0
+f789d2c4f2c2eb38fc4373e7a4b35264,MG,juiz de fora,Q4 Self-serve,Healthy,42.239,41,4782.16,0.046,0.1076,0.0016,1,4,0
+d1b65fc7debc3361ea86b5f14c68d2e2,SP,mogi guacu,Q4 Self-serve,Healthy,42.0881,39,11413.17,0.0645,0.0604,0.0183,2,1,1
+1464afc72f696af775557a821c2e253f,RJ,nova friburgo,Q4 Self-serve,Healthy,42.0,29,1059.36,0.0368,0.1135,0.0019,0,3,0
+fde0cc9ea29c8ccfc0a2c22256a58c71,PR,curitiba,Q4 Self-serve,Healthy,41.8113,35,3922.0,0.051,0.1011,0.0017,1,3,0
+b2a6d334e2833acea353624840e25a0e,SP,sao paulo,Q4 Self-serve,Healthy,41.7862,24,1626.08,0.0637,0.0809,0.0022,1,1,0
+4200ddf1967c5e41e48db62bc6d4b5ac,SP,sao bernardo do campo,Q4 Self-serve,Healthy,41.6981,21,728.98,0.044,0.0937,0.0023,0,1,0
+0d85bbda9889ce1f7e63778d24f346eb,MG,uberlandia,Q4 Self-serve,Healthy,41.5723,51,4845.2,0.0395,0.1223,0.0013,1,6,0
+1bb2bdb95f4841f1bba2c0d2cd83d3c9,SP,sao paulo,Q4 Self-serve,Healthy,41.4843,79,4905.76,0.1798,0.0568,0.001,16,3,0
+916c9de0b5ad957346eeeb12f332687e,PR,curitiba,Q4 Self-serve,Healthy,41.3208,22,5336.5,0.043,0.0848,0.0255,0,1,1
+a3dd39f583bc80bd8c5901c95878921e,BA,salvador,Q4 Self-serve,Healthy,41.0943,34,4607.81,0.089,0.066,0.0018,3,1,0
+c013e57c075a06e5b5c48ee03c525719,SP,sao carlos,Q4 Self-serve,Healthy,41.0566,42,2078.74,0.0452,0.1058,0.0015,1,4,0
+5bffbafbb22daf6d3bfc216a46db8708,RJ,nilopolis,Q4 Self-serve,Healthy,41.0189,21,5239.7,0.0684,0.0625,0.0023,1,0,0
+4830e40640734fc1c52cd21127c341d4,SP,sao paulo,Q4 Self-serve,Healthy,40.9811,200,9475.31,0.0309,0.1071,0.0094,5,21,2
+0885aaf116795758dfeb5f1032487bcd,SP,ferraz de vasconcelos,Q4 Self-serve,Healthy,40.8176,25,2478.19,0.0401,0.1014,0.0021,0,2,0
+6a8a889bde935bafa76d7848782dfaf9,SP,sao paulo,Q4 Self-serve,Healthy,40.8176,25,799.84,0.0401,0.1014,0.0021,0,2,0
+ccf8813e5a7d6c84d865cd38bfc2b130,SP,taubate,Q4 Self-serve,Healthy,40.8176,25,2633.4,0.0401,0.1014,0.0021,0,2,0
+4c03b9dd4c11ee2cb35c96c49efc9420,SP,campo limpo paulista,Q4 Self-serve,Healthy,40.7799,48,6513.6,0.0265,0.1427,0.0014,0,7,0
+5f3ae9136c875522250f8184f253413a,SP,sao paulo,Q4 Self-serve,Healthy,40.7799,42,1143.05,0.1098,0.0574,0.0015,5,1,0
+1fe5540d7c1c37a595fefbacd5570d9e,RJ,paraiba do sul,Q4 Self-serve,Healthy,40.717,20,4537.6,0.0451,0.089,0.0024,0,1,0
+a5a1bfcf728ab0e19182959cf0771ee4,SP,socorro,Q4 Self-serve,Healthy,40.717,20,1775.95,0.0451,0.089,0.0024,0,1,0
+55a5b51f93f2b70ea513f5a047b0262a,MG,sao joao del rei,Q4 Self-serve,Healthy,40.6415,39,4023.8,0.0814,0.0773,0.0016,3,2,0
+974cf2cb8f4b7add98709c30df02fe10,SP,araraquara,Q4 Self-serve,Healthy,40.4151,30,2694.7,0.0361,0.1112,0.0019,0,3,0
+31344c16881c08a8a72c6d2eb29918c1,MG,uba,Q4 Self-serve,Healthy,40.3522,41,9484.9,0.0624,0.0912,0.0016,2,3,0
+729b2d09b2a0bdab221076327f13d050,SP,mineiros do tiete,Q4 Self-serve,Healthy,40.327,48,1805.21,0.1001,0.0671,0.0014,5,2,0
+0ebd97a106433a45a4aebe57c1799778,MG,contagem,Q4 Self-serve,Healthy,40.0377,31,3230.6,0.055,0.0894,0.0019,1,2,0
+6481e96574816ead57975da2c0f6d80d,SP,sorocaba,Q4 Self-serve,Healthy,40.0377,31,3297.9,0.055,0.0894,0.0019,1,2,0
+f67efa3f0b6761102a7f8c6b7b571f5d,PR,curitiba,Q4 Self-serve,Healthy,40.0377,31,5318.17,0.055,0.0894,0.0019,1,2,0
+dfa0c4c6229ab200a4a1336b4d7128ff,SC,florianopolis,Q4 Self-serve,Healthy,40.0252,73,4668.2,0.0302,0.1458,0.001,1,11,0
+ba143b05f0110f0dc71ad71b4466ce92,SP,sao paulo,Q4 Self-serve,Healthy,39.9623,83,6033.7,0.0758,0.0928,0.0009,6,7,0
+32b8764b4ef628b53608fc34011fcc13,SC,lages,Q4 Self-serve,Healthy,39.8365,36,8969.0,0.0679,0.0815,0.0017,2,2,0
+e0a366315b1b726b6c7832d664c0f530,SP,sao paulo,Q4 Self-serve,Healthy,39.8239,43,7577.59,0.0287,0.1359,0.0015,0,6,0
+ec8879960bd2221d5c32f8e12f7da711,SP,itatiba,Q4 Self-serve,Healthy,39.8239,35,3957.5,0.0328,0.1215,0.0017,0,4,0
+6860153b69cc696d5dcfe1cdaaafcf62,SP,capivari,Q4 Self-serve,Healthy,39.7736,74,3827.63,0.0298,0.1458,0.001,1,11,0
+c9c7905cffc4ef9ff9f113554423e671,SP,itapecerica da serra,Q4 Self-serve,Healthy,39.5975,126,10746.69,0.0535,0.1134,0.0007,6,14,0
+8cbac7e12637ed9cffa18c7875207478,SC,jaragua do sul,Q4 Self-serve,Healthy,39.5094,64,2880.98,0.0691,0.09,0.0011,4,5,0
+ebd2d60905fb58271facef5596b620d3,SP,lencois paulista,Q4 Self-serve,Healthy,39.4465,81,7715.12,0.0575,0.1046,0.0009,4,8,0
+f0837c8d71434931d9e38e7b79234797,RS,arvorezinha,Q4 Self-serve,Healthy,39.4465,22,3446.9,0.0668,0.061,0.0023,1,0,0
+b6d44737c043328708f6749c2dbe50bd,SP,santo andre,Q4 Self-serve,Healthy,39.2453,60,5440.24,0.0351,0.0945,0.0135,1,5,1
+06df0c10d34e459d9672bc77388742eb,PR,maringa,Q4 Self-serve,Healthy,38.9182,26,9070.0,0.0392,0.0992,0.0021,0,2,0
+5f5b43b2bffa8656e4bc6efeb13cc649,SP,sao paulo,Q4 Self-serve,Healthy,38.9182,26,3578.2,0.0392,0.0992,0.0021,0,2,0
+5f1dc28029d2c244352a68107ec2b542,SP,sao paulo,Q4 Self-serve,Healthy,38.8553,60,2704.4,0.0976,0.0704,0.0012,6,3,0
+406822777a0b9eb5c50e442dd4cd3ec5,SP,tatui,Q4 Self-serve,Healthy,38.8553,44,3548.09,0.0438,0.1042,0.0015,1,4,0
+679769a98cfcc6da877c8486ff1c13f3,MG,ipatinga,Q4 Self-serve,Healthy,38.6792,21,7029.0,0.044,0.0869,0.0023,0,1,0
+7f7b8245c336066a1f9933c359f11d77,SP,mogi mirim,Q4 Self-serve,Healthy,38.6415,38,2094.36,0.0484,0.0959,0.0016,1,3,0
+8648b1e89e9b349e32d3741b30ec737e,SP,jacarei,Q4 Self-serve,Healthy,38.5786,92,7234.35,0.034,0.1389,0.0008,2,13,0
+ff063b022a9a0aab91bad2c9088760b7,SP,santo andre,Q4 Self-serve,Healthy,38.5283,93,12150.64,0.0691,0.0935,0.0008,6,8,0
+582d4f8675b945722eda7c0cb61ba4c7,SP,bertioga,Q4 Self-serve,Healthy,38.478,55,4616.98,0.0241,0.1408,0.0013,0,8,0
+7b07b3c7487f0ea825fc6df75abd658b,SP,sao paulo,Q4 Self-serve,Healthy,38.2893,90,9245.47,0.0255,0.1051,0.0099,1,9,1
+9b013e03b2ab786505a1d3b5c0756754,SP,vicente de carvalho,Q4 Self-serve,Healthy,38.2893,168,8720.96,0.0468,0.1207,0.0005,7,20,0
+d13e50eaa47b4cbe9eb81465865d8cfc,SP,santo andre,Q4 Self-serve,Healthy,38.0629,66,7073.05,0.1256,0.053,0.0011,9,2,0
+01cf7e3d21494c41fb86034f2e714fa1,PR,francisco beltrao,Q4 Self-serve,Healthy,37.9119,59,9439.56,0.0355,0.1226,0.0012,1,7,0
+0df3984f9dfb3d49ac6366acbd3bbb85,MG,betim,Q4 Self-serve,Healthy,37.8994,85,9870.48,0.0362,0.0911,0.0103,2,7,1
+57c764b4a836300be881e2ff86e449f9,SP,ribeirao preto,Q4 Self-serve,Healthy,37.8616,27,1146.2,0.0384,0.0992,0.002,0,2,0
+530ec6109d11eaaf87999465c6afee01,PR,cascavel,Q4 Self-serve,Healthy,37.7862,94,12682.11,0.0685,0.0926,0.0008,6,8,0
+fdb9095204a334cd8872252ffec6f2db,SP,sao paulo,Q4 Self-serve,Healthy,37.6478,45,8018.0,0.0278,0.1317,0.0015,0,6,0
+aaed1309374718fdd995ee4c58c9dfcd,SC,timbo,Q4 Self-serve,Healthy,37.6101,103,9158.25,0.0391,0.1265,0.0008,3,13,0
+dbb9b48c841a0e39e21f98e1a6b2ec3e,SP,sao paulo,Q4 Self-serve,Healthy,37.5346,105,7147.87,0.0624,0.1005,0.0008,6,10,0
+951e8cef368f09bb3f3d03c00ca4702c,SP,ibitinga,Q4 Self-serve,Healthy,37.3208,60,3873.33,0.0351,0.1226,0.0012,1,7,0
+e26901d5ab434ce92fd9b5c256820a4e,SP,maua,Q4 Self-serve,Healthy,37.3082,197,11618.49,0.0268,0.104,0.005,4,20,1
+cc5a78bbad32776dc4e3af205218368c,MG,divinopolis,Q4 Self-serve,Healthy,37.1321,32,4412.57,0.0347,0.107,0.0018,0,3,0
+8e8a7ce9f2f970dc00e2acf6f6e199f6,RJ,sao goncalo,Q4 Self-serve,Healthy,37.1321,63,8821.0,0.0338,0.1272,0.0011,1,8,0
+1caf283236cd69af44cbc09a0a1e7d32,RJ,nova iguacu,Q4 Self-serve,Healthy,37.0566,33,917.6,0.0529,0.0861,0.0018,1,2,0
+562fc2f2c2863ab7e79a9e4388a58a14,SP,campinas,Q4 Self-serve,Healthy,36.9308,252,8697.22,0.0324,0.0947,0.0076,7,23,2
+113e3a788b935f48aad63e1c41dac1bd,SP,aparecida,Q4 Self-serve,Healthy,36.8931,39,847.35,0.0645,0.0786,0.0016,2,2,0
+b1a81260566c1bac3114a6d124413f27,RS,carazinho,Q4 Self-serve,Healthy,36.8931,51,8921.95,0.0254,0.1347,0.0013,0,7,0
+10076e5788b8ee532724bcd460baf762,SP,batatais,Q4 Self-serve,Healthy,36.7547,22,797.48,0.043,0.0848,0.0023,0,1,0
+503c1de08ae81a2d86f17951b204db55,SP,sao paulo,Q4 Self-serve,Healthy,36.7547,22,4906.99,0.043,0.0848,0.0023,0,1,0
+42b729f859728f5079499127a9c2ef37,SP,sao paulo,Q4 Self-serve,Healthy,36.6541,102,4106.66,0.105,0.0708,0.0008,11,6,0
+8bd0f31cf0a614c658f6763bd02dea69,SP,sao paulo,Q4 Self-serve,Healthy,36.6038,33,4534.34,0.0341,0.107,0.0018,0,3,0
+813348c996469b40f2e028d5429d3495,SP,jundiai,Q4 Self-serve,Healthy,36.3396,171,10794.53,0.0304,0.1466,0.0005,4,25,0
+643214e62b870443ccbe55ab29a4dccf,SP,sao paulo,Q4 Self-serve,Healthy,36.3019,65,3229.23,0.0918,0.0654,0.0011,6,3,0
+817245bcc3badd82bbd222e0366951a6,SP,bauru,Q4 Self-serve,Healthy,36.1006,28,5345.6,0.0376,0.0971,0.002,0,2,0
+0ffa40d54288e4f3499b8780dd0f144f,SP,presidente prudente,Q4 Self-serve,Healthy,35.8239,33,2162.8,0.0341,0.1049,0.0018,0,3,0
+65febd49fd28ec955651299159b1f527,SP,sao paulo,Q4 Self-serve,Healthy,35.8239,33,4136.71,0.0341,0.1049,0.0018,0,3,0
+31561f325664a8a7aba4c8d0c3a9b3db,SP,sao paulo,Q4 Self-serve,Healthy,35.761,36,2776.18,0.0679,0.0636,0.0017,2,1,0
+31da954dc0855f2495c6310f70a2f931,SP,araras,Q4 Self-serve,Healthy,35.7233,28,4284.0,0.0376,0.095,0.002,0,2,0
+cab85505710c7cb9b720bceb52b01cee,SP,sao paulo,Q4 Self-serve,Healthy,35.2453,200,11095.0,0.1127,0.0711,0.0004,23,13,0
+ce27a3cc3c8cc1ea79d11e561e9bebb6,SP,sao paulo,Q4 Self-serve,Healthy,34.8553,122,9465.45,0.0409,0.1136,0.0007,4,13,0
+e8b4225284fbb02d16f200513f1f395d,SP,novo horizonte,Q4 Self-serve,Healthy,34.805,30,5638.62,0.0561,0.0712,0.0019,1,1,0
+7ade73f1b9b4e965f9009a4c3a7e2c15,SP,bauru,Q4 Self-serve,Healthy,34.717,26,1861.45,0.061,0.0557,0.0021,1,0,0
+7e26c750b4cb9f6766f58265ff9ebe95,MG,belo horizonte,Q4 Self-serve,Healthy,34.7044,23,1344.3,0.042,0.0828,0.0022,0,1,0
+a3f0b55de503387383c7b1de3ad7f678,PR,curitiba,Q4 Self-serve,Healthy,34.7044,23,4258.5,0.042,0.0828,0.0022,0,1,0
+e49c26c3edfa46d227d5121a6b6e4d37,PE,brejao,Q4 Self-serve,Healthy,34.6541,34,3644.25,0.0334,0.0845,0.0199,0,2,1
+4371b634e0efc0e22b09b52907d9d469,SP,sao paulo,Q4 Self-serve,Healthy,34.5031,99,7782.99,0.0404,0.0726,0.0091,3,6,1
+750303a20e9c56b2a6bc45cdce0b897d,GO,goiania,Q4 Self-serve,Healthy,34.4277,53,7876.0,0.0384,0.1036,0.0013,1,5,0
+a420f60ff1aa9acc80d0e42959f2b313,SP,sao paulo,Q4 Self-serve,Healthy,34.3145,66,7415.3,0.021,0.1376,0.0011,0,9,0
+b90e891671cffd9557f33a97dc523645,PR,sao jose dos pinhais,Q4 Self-serve,Healthy,34.2013,34,4538.9,0.0334,0.103,0.0018,0,3,0
+b1ac6ea7895bc3dd6f0f6f4abbdd2821,RS,canoas,Q4 Self-serve,Healthy,34.1887,38,2962.0,0.0656,0.0614,0.0016,2,1,0
+c8b0e2b0a7095e5d8219575d5e7e1181,SP,itaquaquecetuba,Q4 Self-serve,Healthy,34.0755,83,12235.22,0.0175,0.1428,0.0009,0,12,0
+1c40343cc5d18c2d8248ac2f3366de34,SP,limeira,Q4 Self-serve,Healthy,34.0252,20,2495.71,0.0451,0.064,0.0024,0,0,0
+3785b653b1b82de85ab47dd139938091,PR,ampere,Q4 Self-serve,Healthy,34.0252,20,1464.0,0.0451,0.064,0.0024,0,0,0
+41c2bad7229b0c25e6becf179ebf63ff,RN,natal,Q4 Self-serve,Healthy,34.0252,20,782.0,0.0451,0.064,0.0024,0,0,0
+6b15924333bd1a741595fe981ea04822,SP,sao caetano do sul,Q4 Self-serve,Healthy,34.0252,20,590.62,0.0451,0.064,0.0024,0,0,0
+1b938a7ec6ac5061a66a3766e0e75f90,SP,penapolis,Q4 Self-serve,Healthy,33.9245,29,3916.7,0.0368,0.0931,0.0019,0,2,0
+d4e12e7884759a14fa0f5f896c791cae,SP,sao paulo,Q4 Self-serve,Healthy,33.9245,29,1400.0,0.0368,0.0931,0.0019,0,2,0
+d1ef48b38baca7e831711c4a0aeb398f,PR,apucarana,Q4 Self-serve,Healthy,33.8616,27,1406.14,0.0597,0.0545,0.002,1,0,0
+2c9e548be18521d1c43cde1c582c6de8,SP,mogi das cruzes,Q4 Self-serve,Healthy,33.673,124,6068.55,0.0334,0.1307,0.0007,3,16,0
+83e197e95a1bbabc8c75e883ed016c47,RJ,mage,Q4 Self-serve,Healthy,33.522,46,6574.19,0.0728,0.054,0.0014,3,1,0
+00fc707aaaad2d31347cf883cd2dfe10,PR,maringa,Q4 Self-serve,Healthy,33.1069,101,12727.3,0.0149,0.1463,0.0008,0,15,0
+7d456afc660226829370f3173d14520c,SP,mogi das cruzes,Q4 Self-serve,Healthy,33.0314,54,8336.04,0.0379,0.1022,0.0013,1,5,0
+0bb738e4d789e63e2267697c42d35a2d,SP,sao roque,Q4 Self-serve,Healthy,33.0063,28,1979.4,0.0584,0.0534,0.002,1,0,0
+960945e1a9535cbc0cd6ddd35fbe7ae8,SP,sao paulo,Q4 Self-serve,Healthy,33.0063,28,3441.53,0.0584,0.0534,0.002,1,0,0
+aafe36600ce604f205b86b5084d3d767,SC,sao jose,Q4 Self-serve,Healthy,32.8931,128,9197.59,0.0527,0.0984,0.0006,6,12,0
+e24fc9fcd865784fb25705606fe3dfe7,SP,braganca paulista,Q4 Self-serve,Healthy,32.8428,51,12768.0,0.0254,0.1206,0.0013,0,6,0
+520b493b57809f446cb0a233bb3e25c7,SP,santos,Q4 Self-serve,Healthy,32.7296,62,3680.9,0.0464,0.0922,0.0012,2,5,0
+8a130737016f838139d31878787a39c9,SP,sao paulo,Q4 Self-serve,Healthy,32.6038,56,4222.03,0.0632,0.0732,0.0013,3,3,0
+cbd996ad3c1b7dc71fd0e5f5df9087e2,SP,sao jose do rio preto,Q4 Self-serve,Healthy,32.5786,160,8294.9,0.0378,0.1162,0.0005,5,18,0
+f4db9b37944bcb8873e6b456ee190bbf,SP,itaquaquecetuba,Q4 Self-serve,Healthy,32.5409,21,3409.78,0.044,0.0625,0.0023,0,0,0
+0432ead42b6c8a0bdf68154add917fdf,SP,maua,Q4 Self-serve,Healthy,32.2264,81,7719.5,0.0278,0.0848,0.0203,1,6,2
+ececbfcff9804a2d6b40f589df8eef2b,SP,franca,Q4 Self-serve,Healthy,31.9497,97,6796.05,0.024,0.133,0.0008,1,13,0
+4da0e408c99d2fdc2126dc9fce518060,PR,cornelio procopio,Q4 Self-serve,Healthy,31.8365,44,3089.92,0.0438,0.0869,0.0015,1,3,0
+bd4889b5e9133b35b66e42a8665cea5c,SP,sao paulo,Q4 Self-serve,Healthy,31.8113,36,6271.9,0.0322,0.1011,0.0017,0,3,0
+23c38debaffe4a25a30fdbd9b586a13f,SP,votorantim,Q4 Self-serve,Healthy,31.673,41,5479.06,0.0624,0.0584,0.0016,2,1,0
+cac876b37d3abcd6bd76caca30277996,PR,cascavel,Q4 Self-serve,Healthy,31.6478,26,2149.87,0.0392,0.0791,0.0021,0,1,0
+f7720c4fa8e3aba4546301ab80ea1f1b,PR,curitiba,Q4 Self-serve,Healthy,31.522,57,2006.85,0.0494,0.0852,0.0012,2,4,0
+bccf933e006e9b94a6184af782963e77,SP,assis,Q4 Self-serve,Healthy,31.434,45,4162.74,0.0432,0.0869,0.0015,1,3,0
+3bdff180c7e1f6551a643b99c265a120,SP,sao paulo,Q4 Self-serve,Healthy,31.2704,56,3008.2,0.0369,0.1008,0.0013,1,5,0
+42fa4ee7240e9b8eb4576358ec142ba7,RS,caxias do sul,Q4 Self-serve,Healthy,31.2704,22,3935.6,0.043,0.0625,0.0023,0,0,0
+cc3d14116804f7209f3884f6367f1152,PR,curitiba,Q4 Self-serve,Healthy,31.0692,26,5437.8,0.0392,0.0774,0.0021,0,1,0
+9646c3513289980f17226a2fc4720dbd,SP,sao jose dos campos,Q4 Self-serve,Healthy,31.044,69,2964.4,0.0315,0.0737,0.023,1,4,2
+cd6efc47efaabf134f8bdb654e10b4f1,RJ,rio de janeiro,Q4 Self-serve,Healthy,30.956,31,4217.55,0.0354,0.0894,0.0019,0,2,0
+d8c7ba53e7e38711eaef8c2849d6d2e1,PR,floresta,Q4 Self-serve,Healthy,30.9434,22,1207.77,0.043,0.061,0.0023,0,0,0
+718539d38d07dd351c76db862760e2e2,SP,campinas,Q4 Self-serve,Healthy,30.6164,35,1287.81,0.0328,0.0648,0.0368,0,1,2
+25cf099de44674fde97473224f9d59ab,SP,cotia,Q4 Self-serve,Healthy,30.5283,50,1654.36,0.0258,0.1096,0.0014,0,5,0
+3f995f07c49d0d55a99d5c54957f7d81,SP,itapecerica da serra,Q4 Self-serve,Healthy,30.239,43,3955.7,0.0287,0.1042,0.0015,0,4,0
+abcd2cb37d46c2c8fb1bf071c859fc5b,MT,cuiaba,Q4 Self-serve,Healthy,30.1384,43,4774.32,0.0604,0.0565,0.0015,2,1,0
+05d2173d43ea568aa0540eba70d2ca76,MG,alfenas,Q4 Self-serve,Healthy,29.9623,62,5759.66,0.022,0.1195,0.0012,0,7,0
+b76dba6c951ab00dc4edf0a1aa88037e,SP,sao paulo,Q4 Self-serve,Healthy,29.8868,157,2545.31,0.0384,0.1061,0.0005,5,16,0
+79ed755314cfe6df0daef2c6cd3022cd,SP,rio claro,Q4 Self-serve,Healthy,29.8491,23,3907.5,0.042,0.061,0.0022,0,0,0
+81a1104df0f08b59c68aa5b03cfe398e,PR,sao jose dos pinhais,Q4 Self-serve,Healthy,29.8113,72,9320.98,0.0522,0.084,0.001,3,5,0
+671585f5a2af58b6e276bc01003c0d2b,PR,curitiba,Q4 Self-serve,Healthy,29.6855,27,1244.0,0.0384,0.0758,0.002,0,1,0
+ffc470761de7d0232558ba5e786e57b7,SP,guarulhos,Q4 Self-serve,Healthy,29.6855,27,1529.13,0.0384,0.0758,0.002,0,1,0
+6edacfd9f9074789dad6d62ba7950b9c,SP,guarulhos,Q4 Self-serve,Healthy,29.5346,199,12751.57,0.0311,0.0802,0.005,5,15,1
+9616352088dcf83a7c06637f4ebf1c80,PR,umuarama,Q4 Self-serve,Healthy,29.5346,91,5643.1,0.0523,0.0861,0.0009,4,7,0
+1838dd9b8977065acf51d95e0053ea7a,MG,belo horizonte,Q4 Self-serve,Healthy,29.5094,62,2750.5,0.022,0.1166,0.0012,0,7,0
+f3b80352b986ab4d1057a4b724be19d0,DF,brasilia,Q4 Self-serve,Healthy,29.3836,86,9815.1,0.0265,0.1185,0.0009,1,10,0
+8a432f4e5b471f8da497d7dc517666e2,SP,presidente prudente,Q4 Self-serve,Healthy,29.044,93,7633.7,0.0248,0.1211,0.0008,1,11,0
+715bbd5ba4e6b74cb0d2f29eb45058b0,SP,serra negra,Q4 Self-serve,Healthy,28.7925,61,4042.3,0.047,0.081,0.0012,2,4,0
+6a8b085f816a1f75f92dbac6eb545f8f,SP,bebedouro,Q4 Self-serve,Healthy,28.6415,123,5812.37,0.0336,0.1088,0.0007,3,13,0
+efcd8d2104f1a05d028af7bad20d974b,SP,aracatuba,Q4 Self-serve,Healthy,28.1006,43,2349.5,0.0445,0.0724,0.0015,1,2,0
+325f3178fb58e2a9778334621eecdbf9,SP,taboao da serra,Q4 Self-serve,Healthy,28.0,33,927.93,0.0341,0.0861,0.0018,0,2,0
+20d83f3ef0e6925fd74bfd59170babf7,SP,sao paulo,Q4 Self-serve,Healthy,27.8365,39,2988.7,0.0306,0.0943,0.0016,0,3,0
+2ff97219cb8622eaf3cd89b7d9c09824,SP,salto,Q4 Self-serve,Healthy,27.7484,86,4335.8,0.0359,0.0525,0.0102,2,3,1
+d57e18d5f73c7ccb7f7339b61166898d,SP,sao paulo,Q4 Self-serve,Healthy,27.6101,60,3151.8,0.0351,0.0945,0.0012,1,5,0
+95e03ca3d4146e4011985981aeb959b9,RJ,rio de janeiro,Q4 Self-serve,Healthy,27.5094,169,10744.26,0.0096,0.1367,0.0005,0,23,0
+6e386f64c84e482f0b9abf960797ee1b,SP,sao paulo,Q4 Self-serve,Healthy,27.4843,29,12209.3,0.0368,0.0742,0.0019,0,1,0
+7e3f87d16fb353f408d467e74fbd8014,SP,sao paulo,Q4 Self-serve,Healthy,27.2453,91,4702.99,0.0253,0.1132,0.0009,1,10,0
+282f23a9769b2690c5dda22e316f9941,MG,belo horizonte,Q4 Self-serve,Healthy,26.7421,97,6367.4,0.0667,0.0561,0.0008,6,4,0
+381c83fdca332ea6afd896da20bf6e4a,PR,curitiba,Q4 Self-serve,Healthy,26.7296,46,7355.8,0.0273,0.0994,0.0014,0,4,0
+058fd0aa2bfdb2274e05e1ae971dabb6,SP,santo andre,Q4 Self-serve,Healthy,26.6792,60,7602.8,0.0226,0.107,0.0012,0,6,0
+aced59e9b31ef866a94f9e7f29d8d418,SP,sao paulo,Q4 Self-serve,Healthy,26.566,59,7303.58,0.0482,0.0704,0.0012,2,3,0
+02f5837340d7eb4f653d676c7256523a,PR,curitiba,Q4 Self-serve,Healthy,25.8239,30,3883.05,0.0361,0.0712,0.0019,0,1,0
+d98eec89afa3380e14463da2aabaea72,RS,porto alegre,Q4 Self-serve,Healthy,25.4969,165,6913.53,0.0584,0.0737,0.0005,9,11,0
+e333046ce6517bd8bb510291d44f0130,SP,ipaussu,Q4 Self-serve,Healthy,25.2956,68,7342.28,0.0319,0.0973,0.0011,1,6,0
+33a17d60c64393351ebf1ef860f4e0f2,RS,porto alegre,Q4 Self-serve,Healthy,25.0314,43,8217.48,0.0445,0.0565,0.0015,1,1,0
+1b8356dabde1d35e17cef975c3f82730,SP,sao paulo,Q4 Self-serve,Healthy,24.9937,55,3366.4,0.0241,0.1008,0.0013,0,5,0
+d6b1ce66b035a475f00c017792ff9769,SP,salto,Q4 Self-serve,Healthy,24.956,89,12107.4,0.0441,0.0793,0.0009,3,6,0
+b410bdd36d5db7a65dcd42b7ead933b8,GO,goiania,Q4 Self-serve,Healthy,24.5535,42,7368.9,0.0452,0.0413,0.0015,1,0,0
+1771297ac436903d1dd6b0e9279aa505,SP,guarulhos,Q4 Self-serve,Healthy,24.4528,28,2881.27,0.0376,0.0545,0.002,0,0,0
+3586b8580d9c917874e053a1bb37b5ff,SP,araraquara,Q4 Self-serve,Healthy,24.3648,36,1524.7,0.0322,0.0815,0.0017,0,2,0
+f181738b150df1f37cb0bd72e705b193,SP,carapicuiba,Q4 Self-serve,Healthy,24.3648,36,5549.6,0.0322,0.0815,0.0017,0,2,0
+b372ee768ed69e46ca8cdbd267aa7a38,SP,sao jose do rio preto,Q4 Self-serve,Healthy,24.327,63,12630.0,0.0217,0.1032,0.0011,0,6,0
+6b243f80ed07b10f0e8aa0f21a205f3c,PR,curitiba,Q4 Self-serve,Healthy,23.9623,78,6295.87,0.0184,0.1078,0.001,0,8,0
+c66dccfb3f109511246da627dd5a2498,SP,registro,Q4 Self-serve,Healthy,23.6478,43,12441.65,0.0287,0.0883,0.0015,0,3,0
+bd0389da23d89b726abf911cccc54596,DF,brasilia,Q4 Self-serve,Healthy,23.5975,86,7412.26,0.017,0.1091,0.0009,0,9,0
+d673a59aac7a70d8b01e6902bf090a11,SP,ibitinga,Q4 Self-serve,Healthy,23.434,71,3677.05,0.0308,0.0941,0.001,1,6,0
+7722b1df1b0e383e000397b2c11e3e19,SP,sao bernardo do campo,Q4 Self-serve,Healthy,23.3836,127,6903.36,0.0259,0.1059,0.0006,2,13,0
+8bb48dc19fccaa8613b6229bf7f452a2,SP,assis,Q4 Self-serve,Healthy,22.9686,81,4186.37,0.0377,0.0848,0.0009,2,6,0
+709e16e2b25c7474d980076c6bfc4806,SP,birigui,Q4 Self-serve,Healthy,22.9434,59,5108.0,0.0482,0.0451,0.0012,2,1,0
+acce39e832338debb07b02385cde5967,MG,contagem,Q4 Self-serve,Healthy,22.9057,44,4793.1,0.0282,0.0869,0.0015,0,3,0
+1eade46fba20122dc4aefb379f8c636b,SP,sao paulo,Q4 Self-serve,Healthy,22.7799,58,3635.37,0.0231,0.0969,0.0012,0,5,0
+6d803cb79cc31c41c4c789a75933b3c7,SP,sao joaquim da barra,Q4 Self-serve,Healthy,22.7799,58,8711.4,0.0231,0.0969,0.0012,0,5,0
+640e21a7d01df7614a3b4923e990d40c,SP,ibitinga,Q4 Self-serve,Healthy,22.5283,110,7327.48,0.0447,0.0736,0.0007,4,7,0
+c68fb906c8f4b4b946d8386bfa6e5467,SP,jaboticabal,Q4 Self-serve,Healthy,22.4528,45,4541.16,0.0278,0.0869,0.0015,0,3,0
+0509040ea3fe50071181bbc359eb7738,MG,belo horizonte,Q4 Self-serve,Healthy,21.9748,87,3689.35,0.0543,0.0336,0.0009,4,1,0
+6b90f847357d8981edd79a1eb1bf0acb,SP,guarulhos,Q4 Self-serve,Healthy,21.7987,45,3322.08,0.0278,0.0856,0.0015,0,3,0
+f680f85bee2d253556ac91be391d2c82,SP,carapicuiba,Q4 Self-serve,Healthy,21.7987,45,5183.92,0.0278,0.0856,0.0015,0,3,0
+7008613ea464bad5cb9b83456e1e6a8f,SC,canoinhas,Q4 Self-serve,Healthy,21.7484,123,7538.7,0.0406,0.0814,0.0007,4,9,0
+18e694e0e48ed6f7aa3f24aade5fd697,SP,varzea paulista,Q4 Self-serve,Healthy,21.4969,31,701.54,0.0354,0.0502,0.0019,0,0,0
+bf3c6d2a28b2b5501e6c15448982dcc9,SP,sao paulo,Q4 Self-serve,Healthy,21.283,35,3956.5,0.0328,0.0648,0.0017,0,1,0
+30a2f535bb48308f991d0b9ad4a8c4bb,SP,santa barbara d'oeste,Q4 Self-serve,Healthy,21.1824,67,4546.6,0.0207,0.0984,0.0011,0,6,0
+b4ffb71f0cb1b1c3d63fad021ecf93e1,SP,sao paulo,Q4 Self-serve,Healthy,20.6541,141,6696.64,0.0236,0.1029,0.0006,2,14,0
+d9bd94811c3338dceb4181f3dbc0c73e,SP,sao paulo,Q4 Self-serve,Healthy,20.5535,54,6911.02,0.0379,0.0616,0.0013,1,2,0
+fc906263ca5083d09dce42fe02247800,MG,belo horizonte,Q4 Self-serve,Healthy,20.5409,112,4437.8,0.0212,0.1027,0.0007,1,11,0
+91f848e9f4be368f4318775aac733370,SP,sao paulo,Q4 Self-serve,Healthy,19.7107,60,5668.61,0.0351,0.0713,0.0012,1,3,0
+670c26e0f1bf8d0576271d5cfaec6d2b,PR,maringa,Q4 Self-serve,Healthy,19.6981,77,6289.1,0.0289,0.0883,0.001,1,6,0
+594f9aaa48e5bf431f011ddc5669b0d5,MG,contagem,Q4 Self-serve,Healthy,19.6101,37,3248.8,0.0317,0.0625,0.0017,0,1,0
+db4350fd57ae30082dec7acbaacc17f9,SP,sao paulo,Q4 Self-serve,Healthy,19.4591,130,3199.35,0.0254,0.0977,0.0006,2,12,0
+80e6699fe29150b372a0c8a1ebf7dcc8,PR,pinhais,Q4 Self-serve,Healthy,19.1447,94,11088.24,0.0334,0.0846,0.0008,2,7,0
+6c7d50c24b3ccd2fd83b44d8bb34e073,SP,presidente prudente,Q4 Self-serve,Healthy,18.8931,107,8444.55,0.0142,0.0521,0.0086,0,4,1
+5a93f3ab0ef4c84ed5e1b5dbf23978bc,SP,monteiro lobato,Q4 Self-serve,Healthy,18.7925,38,2299.28,0.0311,0.0614,0.0016,0,1,0
+02f623a8eb246f3c5f7c2f96462654e6,SP,botucatu,Q4 Self-serve,Healthy,18.5031,44,6378.0,0.0282,0.0724,0.0015,0,2,0
+dee656f0f566ed1aa85bd137c943f08f,SP,cruzeiro,Q4 Self-serve,Healthy,18.3774,90,6192.18,0.0346,0.0778,0.0009,2,6,0
+7ea5bfa6c340f58f8e71fc1f0412b0d6,MG,belo horizonte,Q4 Self-serve,Healthy,18.3648,95,10841.4,0.0244,0.0926,0.0008,1,8,0
+33a6f4b1e7cdc205511e76ba1b6e0186,SP,guarulhos,Q4 Self-serve,Healthy,18.2642,102,10125.01,0.0312,0.0866,0.0008,2,8,0
+6df688df543f90e9b38f4319e75a9d88,MG,belo horizonte,Q4 Self-serve,Healthy,17.8491,39,1891.76,0.0306,0.0604,0.0016,0,1,0
+259f7b5e6e482c230e5bfaa670b6bb8f,SP,poa,Q4 Self-serve,Healthy,17.8113,135,8434.89,0.0181,0.101,0.0006,1,13,0
+43f8c9950d11ecd03a0304a49e010da6,SP,carapicuiba,Q4 Self-serve,Healthy,16.8805,41,4249.59,0.0296,0.0584,0.0016,0,1,0
+cb8bcce248bb1fb274ba762d8b971456,MG,santa rita do sapucai,Q4 Self-serve,Healthy,16.7296,65,9012.5,0.033,0.0654,0.0011,1,3,0
+2dee2ce60de9709b1a24083217181a1f,MT,sinop,Q4 Self-serve,Healthy,16.327,54,7784.5,0.0244,0.0752,0.0013,0,3,0
+8c16d1f32a54d92897cc437244442e1b,SC,blumenau,Q4 Self-serve,Healthy,15.9371,108,5682.9,0.0297,0.0832,0.0007,2,8,0
+d566c37fa119d5e66c4e9052e83ee4ea,SP,sao paulo,Q4 Self-serve,Healthy,15.0063,64,5077.8,0.0334,0.055,0.0011,1,2,0
+c864036feaab8c1659f65ea4faebe1da,PR,campo largo,Q4 Self-serve,Healthy,14.3774,58,10454.2,0.0231,0.0713,0.0012,0,3,0
+3504c0cb71d7fa48d967e0e4c94d59d9,SP,maua,Q4 Self-serve,Healthy,14.0252,53,2359.84,0.0247,0.0625,0.0013,0,2,0
+08633c14ef2db992c11f840f04fad4cd,SP,ribeirao pires,Q4 Self-serve,Healthy,13.7862,73,7650.5,0.0194,0.0813,0.001,0,5,0
+febab0275244b9a49a623f0bd613ca2f,SP,pedreira,Q4 Self-serve,Healthy,13.5346,102,7159.48,0.0312,0.0702,0.0008,2,6,0
+d12c926d74ceff0a90a21184466ce161,SP,sao paulo,Q4 Self-serve,Healthy,13.3082,74,3760.58,0.0192,0.0804,0.001,0,5,0
+57e632711dec9ec14ca7546769483e7e,SC,navegantes,Q4 Self-serve,Healthy,12.9686,61,6417.06,0.0223,0.0687,0.0012,0,3,0
+d9a84e1403de8da0c3aa531d6d108ba6,SP,sao paulo,Q4 Self-serve,Healthy,12.3396,51,1349.5,0.0254,0.0502,0.0013,0,1,0
+5b925e1d006e9476d738aa200751b73b,SP,sao paulo,Q4 Self-serve,Healthy,12.3019,63,7748.5,0.0217,0.067,0.0011,0,3,0
+376a891762bbdecbc02b4b6adec3fdda,GO,goiania,Q4 Self-serve,Healthy,10.6918,57,6406.23,0.0234,0.0463,0.0012,0,1,0
+116ccb1a1604bc88e4d234a8c23f33de,SP,sao bernardo do campo,Q4 Self-serve,Healthy,10.0881,59,1925.19,0.0228,0.0451,0.0012,0,1,0
+537eb890efff034a88679788b647c564,RJ,rio de janeiro,Q4 Self-serve,Healthy,8.9308,152,4508.1,0.0163,0.0788,0.0006,1,11,0
+dbd66278cbfe1aa1000f90a217ca4695,SP,sao paulo,Q4 Self-serve,Healthy,8.9182,83,4837.9,0.0272,0.0346,0.0009,1,1,0
+9d4db00d65d7760644ac0c14edb5fd86,SP,sorocaba,Q4 Self-serve,Healthy,8.5535,97,9845.71,0.024,0.0566,0.0008,1,4,0
+516e7738bd8f735ac19a010ee5450d8d,RJ,rio de janeiro,Q4 Self-serve,Healthy,7.3208,72,6394.39,0.0196,0.0387,0.001,0,1,0
+ac3508719a1d8f5b7614b798f70af136,RS,canoas,Q4 Self-serve,Healthy,7.0692,100,12410.14,0.0234,0.0467,0.0008,1,3,0
+0bae85eb84b9fb3bd773911e89288d54,SP,itajai,Q4 Self-serve,Healthy,6.7296,130,7193.99,0.012,0.0704,0.0006,0,8,0
+080102cd0a76b09e0dcf55fcacc60e05,MG,belo horizonte,Q4 Self-serve,Healthy,5.4214,122,5667.55,0.0198,0.0533,0.0007,1,5,0
+725c32fa80c2faacc4fc88450d27314e,SP,sao paulo,Q4 Self-serve,Healthy,5.3333,89,7937.88,0.0166,0.0426,0.0009,0,2,0
+0ea22c1cfbdc755f86b9b54b39c16043,MG,sete lagoas,Q4 Self-serve,Healthy,4.1006,225,10415.88,0.0196,0.056,0.0004,3,11,0
+6cd68b3ed6d59aaa9fece558ad360c0a,MG,belo horizonte,Q4 Self-serve,Healthy,2.4403,147,11178.47,0.0108,0.0393,0.0006,0,4,0

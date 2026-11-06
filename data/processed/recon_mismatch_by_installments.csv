@@ -1,0 +1,5 @@
+installment_band,orders,overpaid,underpaid,overpaid_pct,avg_overpay_pct_of_basket
+01 (single),47822,30,62,0.06,0.67
+02-03,22662,57,33,0.25,5.2
+04-06,16097,98,26,0.61,8.51
+07+,12084,106,20,0.88,13.36

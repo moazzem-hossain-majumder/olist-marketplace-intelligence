@@ -1,0 +1,9 @@
+order_status,orders,orders_without_items,pct_without_items
+unavailable,609,603,99.0
+canceled,625,164,26.2
+created,5,5,100.0
+invoiced,314,2,0.6
+shipped,1107,1,0.1
+processing,301,0,0.0
+delivered,96478,0,0.0
+approved,2,0,0.0

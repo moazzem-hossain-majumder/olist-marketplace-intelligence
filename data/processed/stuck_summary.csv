@@ -1,0 +1,4 @@
+bucket,orders,value_brl,avg_value_brl,avg_age_days,past_promise,sellers_involved
+B1_lost_in_carrier_network,1107,177207.07,160.08,315.0,1107,498
+B2_seller_never_shipped,615,138532.09,225.26,383.0,615,346
+B3_never_released_to_seller,7,929.18,132.74,386.0,7,2

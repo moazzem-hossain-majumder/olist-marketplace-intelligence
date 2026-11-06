@@ -1,0 +1,16 @@
+# raw data & database are rebuilt by run_all.py (~265 MB)
+data/raw/
+data/olist.db
+# large row-level outputs (regenerated)
+data/processed/customer_orders.csv
+data/processed/customer_rfm.csv
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# OS / office lock files
+.DS_Store
+~$*.xlsx
+.pytest_cache/
