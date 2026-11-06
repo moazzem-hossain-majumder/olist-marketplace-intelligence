@@ -1,7 +1,7 @@
 # Memo: Olist Operations & Growth Review
 
 **To:** Head of Operations, Head of Growth
-**From:** Minhaz Alam Jisan, Data Analyst
+**From:** Moazzem Hossain Majumder, Data Analyst
 **Data:** Olist public dataset, 99,441 orders (Jan 2017 to Aug 2018 used for monthly figures)
 
 ## Summary

@@ -341,6 +341,9 @@ olist-marketplace-intelligence/
 
 ## Author & Contact
 
-**Minhaz Alam Jisan** · [LinkedIn](https://www.linkedin.com/in/minhazjisan)
+**Moazzem Hossain Majumder**
+- **LinkedIn:** [linkedin.com/in/moazzem-hossain-majumder](https://www.linkedin.com/in/moazzem-hossain-majumder)
+- **GitHub:** [github.com/moazzem-hossain-majumder](https://github.com/moazzem-hossain-majumder)
+- **Email:** [moazzemhossain1510@gmail.com](mailto:moazzemhossain1510@gmail.com)
 
 Data: Olist Public Dataset under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
